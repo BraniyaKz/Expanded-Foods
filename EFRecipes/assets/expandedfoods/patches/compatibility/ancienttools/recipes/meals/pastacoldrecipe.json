@@ -1,206 +1,1052 @@
 ﻿[
-    {
-        "op": "addeach",
-        "path": "/ingredients/4/validStacks/-",
-        "value": [
-            { "type": "item", "code": "ancienttools:saltedmeat-redmeat-partbaked", "shapeElement": "bowl/red meat/*", "texturemapping": [ "meat", "group2" ] },
-            { "type": "item", "code": "ancienttools:saltedmeat-bushmeat-partbaked", "shapeElement": "bowl/red meat/*", "texturemapping": [ "meat", "group7" ] },
-            { "type": "item", "code": "ancienttools:saltedmeat-poultry-partbaked", "shapeElement": "bowl/red meat/*", "texturemapping": [ "meat", "group3" ] },
-            { "type": "item", "code": "ancienttools:saltedmeat-redmeat-cooked", "shapeElement": "bowl/red meat/*", "texturemapping": [ "meat", "group2" ] },
-            { "type": "item", "code": "ancienttools:saltedmeat-bushmeat-cooked", "shapeElement": "bowl/red meat/*", "texturemapping": [ "meat", "group7" ] },
-            { "type": "item", "code": "ancienttools:saltedmeat-poultry-cooked", "shapeElement": "bowl/red meat/*", "texturemapping": [ "meat", "group3" ] },
-            { "type": "item", "code": "ancienttools:saltedmeat-redmeat-charred", "shapeElement": "bowl/red meat/*", "texturemapping": [ "meat", "group2" ] },
-            { "type": "item", "code": "ancienttools:saltedmeat-bushmeat-charred", "shapeElement": "bowl/red meat/*", "texturemapping": [ "meat", "group7" ] },
-            { "type": "item", "code": "ancienttools:saltedmeat-poultry-charred", "shapeElement": "bowl/red meat/*", "texturemapping": [ "meat", "group3" ] },
-            { "type": "item", "code": "expandedfoods:saltedmeatnugget-redmeat-cookedpartbaked", "shapeElement": "bowl/meatnugget 1/*", "texturemapping": [ "meatnugget", "redmeat-raw" ] },
-            { "type": "item", "code": "expandedfoods:saltedmeatnugget-bushmeat-cookedpartbaked", "shapeElement": "bowl/meatnugget 1/*", "texturemapping": [ "meatnugget", "bushmeat-raw" ] },
-            { "type": "item", "code": "expandedfoods:saltedmeatnugget-poultry-cookedpartbaked", "shapeElement": "bowl/meatnugget 1/*", "texturemapping": [ "meatnugget", "poultry-raw" ] },
-            { "type": "item", "code": "expandedfoods:saltedmeatnugget-redmeat-cooked", "shapeElement": "bowl/meatnugget 1/*", "texturemapping": [ "meatnugget", "redmeat-raw" ] },
-            { "type": "item", "code": "expandedfoods:saltedmeatnugget-bushmeat-cooked", "shapeElement": "bowl/meatnugget 1/*", "texturemapping": [ "meatnugget", "bushmeat-raw" ] },
-            { "type": "item", "code": "expandedfoods:saltedmeatnugget-poultry-cooked", "shapeElement": "bowl/meatnugget 1/*", "texturemapping": [ "meatnugget", "poultry-raw" ] },
-            { "type": "item", "code": "expandedfoods:saltedmeatnugget-redmeat-cookedcharred", "shapeElement": "bowl/meatnugget 1/*", "texturemapping": [ "meatnugget", "redmeat-raw" ] },
-            { "type": "item", "code": "expandedfoods:saltedmeatnugget-bushmeat-cookedcharred", "shapeElement": "bowl/meatnugget 1/*", "texturemapping": [ "meatnugget", "bushmeat-raw" ] },
-            { "type": "item", "code": "expandedfoods:saltedmeatnugget-poultry-cookedcharred", "shapeElement": "bowl/meatnugget 1/*", "texturemapping": [ "meatnugget", "poultry-raw" ] },
-            { "type": "item", "code": "expandedfoods:saltedmeatnugget-redmeat-tenderpartbaked", "shapeElement": "bowl/red meat/*", "texturemapping": [ "meat", "group2" ] },
-            { "type": "item", "code": "expandedfoods:saltedmeatnugget-bushmeat-tenderpartbaked", "shapeElement": "bowl/red meat/*", "texturemapping": [ "meat", "group7" ] },
-            { "type": "item", "code": "expandedfoods:saltedmeatnugget-poultry-tenderpartbaked", "shapeElement": "bowl/red meat/*", "texturemapping": [ "meat", "group3" ] },
-            { "type": "item", "code": "expandedfoods:saltedmeatnugget-redmeat-tender", "shapeElement": "bowl/red meat/*", "texturemapping": [ "meat", "group2" ] },
-            { "type": "item", "code": "expandedfoods:saltedmeatnugget-bushmeat-tender", "shapeElement": "bowl/red meat/*", "texturemapping": [ "meat", "group7" ] },
-            { "type": "item", "code": "expandedfoods:saltedmeatnugget-poultry-tender", "shapeElement": "bowl/red meat/*", "texturemapping": [ "meat", "group3" ] },
-            { "type": "item", "code": "expandedfoods:saltedmeatnugget-redmeat-tendercharred", "shapeElement": "bowl/red meat/*", "texturemapping": [ "meat", "group2" ] },
-            { "type": "item", "code": "expandedfoods:saltedmeatnugget-bushmeat-tendercharred", "shapeElement": "bowl/red meat/*", "texturemapping": [ "meat", "group7" ] },
-            { "type": "item", "code": "expandedfoods:saltedmeatnugget-poultry-tendercharred", "shapeElement": "bowl/red meat/*", "texturemapping": [ "meat", "group3" ] }
-        ],
-    "file": "recipes/mixing/pastacold.json",
-    "side": "server",
-    "dependsOn": [{ "modid": "ancienttools" }]
-    },
-    {
-        "op": "addeach",
-        "path": "/ingredients/5/validStacks/-",
-        "value": [
-          { "type": "item", "code": "ancienttools:saltedmeat-redmeat-partbaked", "shapeElement": "bowl/red meat 2/*", "texturemapping": [ "meat", "group2" ] },
-          { "type": "item", "code": "ancienttools:saltedmeat-bushmeat-partbaked", "shapeElement": "bowl/red meat 2/*", "texturemapping": [ "meat", "group7" ] },
-          { "type": "item", "code": "ancienttools:saltedmeat-poultry-partbaked", "shapeElement": "bowl/red meat 2/*", "texturemapping": [ "meat", "group3" ] },
-          { "type": "item", "code": "ancienttools:saltedmeat-redmeat-cooked", "shapeElement": "bowl/red meat 2/*", "texturemapping": [ "meat", "group2" ] },
-          { "type": "item", "code": "ancienttools:saltedmeat-bushmeat-cooked", "shapeElement": "bowl/red meat 2/*", "texturemapping": [ "meat", "group7" ] },
-          { "type": "item", "code": "ancienttools:saltedmeat-poultry-cooked", "shapeElement": "bowl/red meat 2/*", "texturemapping": [ "meat", "group3" ] },
-          { "type": "item", "code": "ancienttools:saltedmeat-redmeat-charred", "shapeElement": "bowl/red meat 2/*", "texturemapping": [ "meat", "group2" ] },
-          { "type": "item", "code": "ancienttools:saltedmeat-bushmeat-charred", "shapeElement": "bowl/red meat 2/*", "texturemapping": [ "meat", "group7" ] },
-          { "type": "item", "code": "ancienttools:saltedmeat-poultry-charred", "shapeElement": "bowl/red meat 2/*", "texturemapping": [ "meat", "group3" ] },
-          { "type": "item", "code": "expandedfoods:saltedmeatnugget-redmeat-cookedpartbaked", "shapeElement": "bowl/meatnugget 2/*", "texturemapping": [ "meatnugget", "redmeat-raw" ] },
-          { "type": "item", "code": "expandedfoods:saltedmeatnugget-bushmeat-cookedpartbaked", "shapeElement": "bowl/meatnugget 2/*", "texturemapping": [ "meatnugget", "bushmeat-raw" ] },
-          { "type": "item", "code": "expandedfoods:saltedmeatnugget-poultry-cookedpartbaked", "shapeElement": "bowl/meatnugget 2/*", "texturemapping": [ "meatnugget", "poultry-raw" ] },
-          { "type": "item", "code": "expandedfoods:saltedmeatnugget-redmeat-cooked", "shapeElement": "bowl/meatnugget 2/*", "texturemapping": [ "meatnugget", "redmeat-raw" ] },
-          { "type": "item", "code": "expandedfoods:saltedmeatnugget-bushmeat-cooked", "shapeElement": "bowl/meatnugget 2/*", "texturemapping": [ "meatnugget", "bushmeat-raw" ] },
-          { "type": "item", "code": "expandedfoods:saltedmeatnugget-poultry-cooked", "shapeElement": "bowl/meatnugget 2/*", "texturemapping": [ "meatnugget", "poultry-raw" ] },
-          { "type": "item", "code": "expandedfoods:saltedmeatnugget-redmeat-cookedcharred", "shapeElement": "bowl/meatnugget 2/*", "texturemapping": [ "meatnugget", "redmeat-raw" ] },
-          { "type": "item", "code": "expandedfoods:saltedmeatnugget-bushmeat-cookedcharred", "shapeElement": "bowl/meatnugget 2/*", "texturemapping": [ "meatnugget", "bushmeat-raw" ] },
-          { "type": "item", "code": "expandedfoods:saltedmeatnugget-poultry-cookedcharred", "shapeElement": "bowl/meatnugget 2/*", "texturemapping": [ "meatnugget", "poultry-raw" ] },
-          { "type": "item", "code": "expandedfoods:saltedmeatnugget-redmeat-tenderpartbaked", "shapeElement": "bowl/red meat 2/*", "texturemapping": [ "meat", "group2" ] },
-          { "type": "item", "code": "expandedfoods:saltedmeatnugget-bushmeat-tenderpartbaked", "shapeElement": "bowl/red meat 2/*", "texturemapping": [ "meat", "group7" ] },
-          { "type": "item", "code": "expandedfoods:saltedmeatnugget-poultry-tenderpartbaked", "shapeElement": "bowl/red meat 2/*", "texturemapping": [ "meat", "group3" ] },
-          { "type": "item", "code": "expandedfoods:saltedmeatnugget-redmeat-tender", "shapeElement": "bowl/red meat 2/*", "texturemapping": [ "meat", "group2" ] },
-          { "type": "item", "code": "expandedfoods:saltedmeatnugget-bushmeat-tender", "shapeElement": "bowl/red meat 2/*", "texturemapping": [ "meat", "group7" ] },
-          { "type": "item", "code": "expandedfoods:saltedmeatnugget-poultry-tender", "shapeElement": "bowl/red meat 2/*", "texturemapping": [ "meat", "group3" ] },
-          { "type": "item", "code": "expandedfoods:saltedmeatnugget-redmeat-tendercharred", "shapeElement": "bowl/red meat 2/*", "texturemapping": [ "meat", "group2" ] },
-          { "type": "item", "code": "expandedfoods:saltedmeatnugget-bushmeat-tendercharred", "shapeElement": "bowl/red meat 2/*", "texturemapping": [ "meat", "group7" ] },
-          { "type": "item", "code": "expandedfoods:saltedmeatnugget-poultry-tendercharred", "shapeElement": "bowl/red meat 2/*", "texturemapping": [ "meat", "group3" ] }
-        ],
-    "file": "recipes/mixing/pastacold.json",
-    "side": "server",
-    "dependsOn": [{ "modid": "ancienttools" }]
+  {
+    "file": "expandedfoods:recipes/mixing/pastacold.json",
+    "op": "remove",
+    "path": "/ingredients/2/validStacks/116",
+    "side": "Server",
+    "dependsOn": [ { "modId": "ancienttools", "invert": true } ]
   },
   {
-    "op": "addeach",
-    "path": "/ingredients/2/validStacks/-",
-    "value": [
-      { "type": "item", "code": "expandedfoods:breadedvegetable-birch-*-partbaked",  "shapeElement": "bowl/vegetable 3/*", "textureMapping": ["vegetable", "breading-birch-partbaked"]}, 
-      { "type": "item", "code": "expandedfoods:breadedvegetable-birch-*-cooked",  "shapeElement": "bowl/vegetable 3/*", "textureMapping": ["vegetable", "breading-birch"]}, 
-      { "type": "item", "code": "expandedfoods:breadedvegetable-birch-*-charred",  "shapeElement": "bowl/vegetable 3/*", "textureMapping": ["vegetable", "breading-birch-charred"]}, 
-      { "type": "item", "code": "expandedfoods:breadedvegetable-birch-*-syruppartbaked",  "shapeElement": "bowl/vegetable 3/*", "textureMapping": ["vegetable", "breading-birch-syrup"]}, 
-      { "type": "item", "code": "expandedfoods:breadedvegetable-birch-*-syrupv",  "shapeElement": "bowl/vegetable 3/*", "textureMapping": ["vegetable", "breading-birch-*-syrup"]}, 
-      { "type": "item", "code": "expandedfoods:breadedvegetable-birch-*-syrupcharred",  "shapeElement": "bowl/vegetable 3/*", "textureMapping": ["vegetable", "breading-birch-syrup"]}, 
-      { "type": "item", "code": "expandedfoods:breadedmushroom-birch-partbaked",  "shapeElement": "bowl/vegetable 3/*", "textureMapping": ["vegetable", "breading-birch-partbaked"]}, 
-      { "type": "item", "code": "expandedfoods:breadedmushroom-birch-cooked",  "shapeElement": "bowl/vegetable 3/*", "textureMapping": ["vegetable", "breading-birch"]}, 
-      { "type": "item", "code": "expandedfoods:breadedmushroom-birch-charred",  "shapeElement": "bowl/vegetable 3/*", "textureMapping": ["vegetable", "breading-birch-charred"]}, 
-      { "type": "item", "code": "expandedfoods:breadedmushroom-birch-syruppartbaked",  "shapeElement": "bowl/vegetable 3/*", "textureMapping": ["vegetable", "breading-birch-syrup"]}, 
-      { "type": "item", "code": "expandedfoods:breadedmushroom-birch-syrup",  "shapeElement": "bowl/vegetable 3/*", "textureMapping": ["vegetable", "breading-birch-syrup"]}, 
-      { "type": "item", "code": "expandedfoods:breadedmushroom-birch-syrupcharred",  "shapeElement": "bowl/vegetable 3/*", "textureMapping": ["vegetable", "breading-birch-syrup"]}, 
-      { "type": "item", "code": "expandedfoods:breadedvegetable-pine-*-partbaked",  "shapeElement": "bowl/vegetable 3/*", "textureMapping": ["vegetable", "breading-pine-partbaked"]}, 
-      { "type": "item", "code": "expandedfoods:breadedvegetable-pine-*-cooked",  "shapeElement": "bowl/vegetable 3/*", "textureMapping": ["vegetable", "breading-pine"]}, 
-      { "type": "item", "code": "expandedfoods:breadedvegetable-pine-*-charred",  "shapeElement": "bowl/vegetable 3/*", "textureMapping": ["vegetable", "breading-pine-charred"]}, 
-      { "type": "item", "code": "expandedfoods:breadedvegetable-pine-*-syruppartbaked",  "shapeElement": "bowl/vegetable 3/*", "textureMapping": ["vegetable", "breading-pine-syrup"]}, 
-      { "type": "item", "code": "expandedfoods:breadedvegetable-pine-*-syrupv",  "shapeElement": "bowl/vegetable 3/*", "textureMapping": ["vegetable", "breading-pine-syrup"]}, 
-      { "type": "item", "code": "expandedfoods:breadedvegetable-pine-*-syrupcharred",  "shapeElement": "bowl/vegetable 3/*", "textureMapping": ["vegetable", "breading-pine-syrup"]}, 
-      { "type": "item", "code": "expandedfoods:breadedmushroom-pine-partbaked",  "shapeElement": "bowl/vegetable 3/*", "textureMapping": ["vegetable", "breading-pine-partbaked"]}, 
-      { "type": "item", "code": "expandedfoods:breadedmushroom-pine-cooked",  "shapeElement": "bowl/vegetable 3/*", "textureMapping": ["vegetable", "breading-pine"]}, 
-      { "type": "item", "code": "expandedfoods:breadedmushroom-pine-charred",  "shapeElement": "bowl/vegetable 3/*", "textureMapping": ["vegetable", "breading-pine-charred"]}, 
-      { "type": "item", "code": "expandedfoods:breadedmushroom-pine-syruppartbaked",  "shapeElement": "bowl/vegetable 3/*", "textureMapping": ["vegetable", "breading-pine-syrup"]}, 
-      { "type": "item", "code": "expandedfoods:breadedmushroom-pine-syrup",  "shapeElement": "bowl/vegetable 3/*", "textureMapping": ["vegetable", "breading-pine-syrup"]}, 
-      { "type": "item", "code": "expandedfoods:breadedmushroom-pine-syrupcharred",  "shapeElement": "bowl/vegetable 3/*", "textureMapping": ["vegetable", "breading-pine-syrup"]}
-    ],
-    "file": "recipes/mixing/pastacold.json",
-    "side": "server",
-    "dependsOn": [{ "modid": "ancienttools" }]
+    "file": "expandedfoods:recipes/mixing/pastacold.json",
+    "op": "remove",
+    "path": "/ingredients/2/validStacks/117",
+    "side": "Server",
+    "dependsOn": [ { "modId": "ancienttools", "invert": true } ]
   },
   {
-    "op": "addeach",
-    "path": "/ingredients/3/validStacks/-",
-    "value": [
-      { "type": "item", "code": "expandedfoods:breadedvegetable-birch-*-partbaked",  "shapeElement": "bowl/vegetable 4/*", "textureMapping": ["vegetable", "breading-birch-partbaked"]},
-      { "type": "item", "code": "expandedfoods:breadedvegetable-birch-*-cooked",  "shapeElement": "bowl/vegetable 4/*", "textureMapping": ["vegetable", "breading-birch"]},
-      { "type": "item", "code": "expandedfoods:breadedvegetable-birch-*-charred",  "shapeElement": "bowl/vegetable 4/*", "textureMapping": ["vegetable", "breading-birch-charred"]},
-      { "type": "item", "code": "expandedfoods:breadedvegetable-birch-*-syruppartbaked",  "shapeElement": "bowl/vegetable 4/*", "textureMapping": ["vegetable", "breading-birch-syrup"]},
-      { "type": "item", "code": "expandedfoods:breadedvegetable-birch-*-syrupv",  "shapeElement": "bowl/vegetable 4/*", "textureMapping": ["vegetable", "breading-birch-*-syrup"]},
-      { "type": "item", "code": "expandedfoods:breadedvegetable-birch-*-syrupcharred",  "shapeElement": "bowl/vegetable 4/*", "textureMapping": ["vegetable", "breading-birch-syrup"]},
-      { "type": "item", "code": "expandedfoods:breadedmushroom-birch-partbaked",  "shapeElement": "bowl/vegetable 4/*", "textureMapping": ["vegetable", "breading-birch-partbaked"]},
-      { "type": "item", "code": "expandedfoods:breadedmushroom-birch-cooked",  "shapeElement": "bowl/vegetable 4/*", "textureMapping": ["vegetable", "breading-birch"]},
-      { "type": "item", "code": "expandedfoods:breadedmushroom-birch-charred",  "shapeElement": "bowl/vegetable 4/*", "textureMapping": ["vegetable", "breading-birch-charred"]},
-      { "type": "item", "code": "expandedfoods:breadedmushroom-birch-syruppartbaked",  "shapeElement": "bowl/vegetable 4/*", "textureMapping": ["vegetable", "breading-birch-syrup"]},
-      { "type": "item", "code": "expandedfoods:breadedmushroom-birch-syrup",  "shapeElement": "bowl/vegetable 4/*", "textureMapping": ["vegetable", "breading-birch-syrup"]},
-      { "type": "item", "code": "expandedfoods:breadedmushroom-birch-syrupcharred",  "shapeElement": "bowl/vegetable 4/*", "textureMapping": ["vegetable", "breading-birch-syrup"]},
-      { "type": "item", "code": "expandedfoods:breadedvegetable-pine-*-partbaked",  "shapeElement": "bowl/vegetable 4/*", "textureMapping": ["vegetable", "breading-pine-partbaked"]},
-      { "type": "item", "code": "expandedfoods:breadedvegetable-pine-*-cooked",  "shapeElement": "bowl/vegetable 4/*", "textureMapping": ["vegetable", "breading-pine"]},
-      { "type": "item", "code": "expandedfoods:breadedvegetable-pine-*-charred",  "shapeElement": "bowl/vegetable 4/*", "textureMapping": ["vegetable", "breading-pine-charred"]},
-      { "type": "item", "code": "expandedfoods:breadedvegetable-pine-*-syruppartbaked",  "shapeElement": "bowl/vegetable 4/*", "textureMapping": ["vegetable", "breading-pine-syrup"]},
-      { "type": "item", "code": "expandedfoods:breadedvegetable-pine-*-syrupv",  "shapeElement": "bowl/vegetable 4/*", "textureMapping": ["vegetable", "breading-pine-syrup"]},
-      { "type": "item", "code": "expandedfoods:breadedvegetable-pine-*-syrupcharred",  "shapeElement": "bowl/vegetable 4/*", "textureMapping": ["vegetable", "breading-pine-syrup"]},
-      { "type": "item", "code": "expandedfoods:breadedmushroom-pine-partbaked",  "shapeElement": "bowl/vegetable 4/*", "textureMapping": ["vegetable", "breading-pine-partbaked"]},
-      { "type": "item", "code": "expandedfoods:breadedmushroom-pine-cooked",  "shapeElement": "bowl/vegetable 4/*", "textureMapping": ["vegetable", "breading-pine"]},
-      { "type": "item", "code": "expandedfoods:breadedmushroom-pine-charred",  "shapeElement": "bowl/vegetable 4/*", "textureMapping": ["vegetable", "breading-pine-charred"]},
-      { "type": "item", "code": "expandedfoods:breadedmushroom-pine-syruppartbaked",  "shapeElement": "bowl/vegetable 4/*", "textureMapping": ["vegetable", "breading-pine-syrup"]},
-      { "type": "item", "code": "expandedfoods:breadedmushroom-pine-syrup",  "shapeElement": "bowl/vegetable 4/*", "textureMapping": ["vegetable", "breading-pine-syrup"]},
-      { "type": "item", "code": "expandedfoods:breadedmushroom-pine-syrupcharred",  "shapeElement": "bowl/vegetable 4/*", "textureMapping": ["vegetable", "breading-pine-syrup"]}
-    ],
-    "file": "recipes/mixing/pastacold.json",
-    "side": "server",
-    "dependsOn": [{ "modid": "ancienttools" }]
+    "file": "expandedfoods:recipes/mixing/pastacold.json",
+    "op": "remove",
+    "path": "/ingredients/2/validStacks/118",
+    "side": "Server",
+    "dependsOn": [ { "modId": "ancienttools", "invert": true } ]
   },
   {
-    "op": "addeach",
-    "path": "/ingredients/5/validStacks/-",
-    "value": [
-      { "type": "item", "code": "expandedfoods:breadedmeatnugget-birch-bushmeat-syruppartbaked",  "shapeElement": "bowl/red meat/*", "textureMapping": ["meat", "breading-birch-syrup"]  }, 
-      { "type": "item", "code": "expandedfoods:breadedmeatnugget-birch-poultry-syruppartbaked",  "shapeElement": "bowl/poultry/*", "textureMapping": ["meat", "breading-birch-syrup"]  }, 
-      { "type": "item", "code": "expandedfoods:breadedmeatnugget-birch-redmeat-syruppartbaked",  "shapeElement": "bowl/red meat/*", "textureMapping": ["meat", "breading-birch-syrup"]  }, 
-      { "type": "item", "code": "expandedfoods:breadedmeatnugget-birch-bushmeat-syrups",  "shapeElement": "bowl/red meat/*", "textureMapping": ["meat", "breading-birch-syrup"]  }, 
-      { "type": "item", "code": "expandedfoods:breadedmeatnugget-birch-poultry-syrups",  "shapeElement": "bowl/poultry/*", "textureMapping": ["meat", "breading-birch-syrup"]  }, 
-      { "type": "item", "code": "expandedfoods:breadedmeatnugget-birch-redmeat-syrups",  "shapeElement": "bowl/red meat/*", "textureMapping": ["meat", "breading-birch-syrup"]  },  
-      { "type": "item", "code": "expandedfoods:breadedmeatnugget-birch-bushmeat-syrupcharred",  "shapeElement": "bowl/red meat/*", "textureMapping": ["meat", "breading-birch-syrup"]  }, 
-      { "type": "item", "code": "expandedfoods:breadedmeatnugget-birch-poultry-syrupcharred",  "shapeElement": "bowl/poultry/*", "textureMapping": ["meat", "breading-birch-syrup"]  }, 
-      { "type": "item", "code": "expandedfoods:breadedmeatnugget-birch-redmeat-syrupcharred",  "shapeElement": "bowl/red meat/*", "textureMapping": ["meat", "breading-birch-syrup"]  }, 
-      { "type": "item", "code": "expandedfoods:breadedmeatnugget-birch-bushmeat-partbaked",  "shapeElement": "bowl/red meat/*", "textureMapping": ["meat", "breading-birch-partbaked"]  }, 
-      { "type": "item", "code": "expandedfoods:breadedmeatnugget-birch-poultry-partbaked",  "shapeElement": "bowl/poultry/*", "textureMapping": ["meat", "breading-birch-partbaked"]  }, 
-      { "type": "item", "code": "expandedfoods:breadedmeatnugget-birch-redmeat-partbaked",  "shapeElement": "bowl/red meat/*", "textureMapping": ["meat", "breading-birch-partbaked"]  }, 
-      { "type": "item", "code": "expandedfoods:breadedmeatnugget-birch-bushmeat-tender",  "shapeElement": "bowl/red meat/*", "textureMapping": ["meat", "breading-birch"]  }, 
-      { "type": "item", "code": "expandedfoods:breadedmeatnugget-birch-poultry-tender",  "shapeElement": "bowl/poultry/*", "textureMapping": ["meat", "breading-birch"]  }, 
-      { "type": "item", "code": "expandedfoods:breadedmeatnugget-birch-redmeat-tender",  "shapeElement": "bowl/red meat/*", "textureMapping": ["meat", "breading-birch"]  }, 
-      { "type": "item", "code": "expandedfoods:breadedmeatnugget-birch-bushmeat-charred",  "shapeElement": "bowl/red meat/*", "textureMapping": ["meat", "breading-birch-charred"]  }, 
-      { "type": "item", "code": "expandedfoods:breadedmeatnugget-birch-poultry-charred",  "shapeElement": "bowl/poultry/*", "textureMapping": ["meat", "breading-birch-charred"]  }, 
-      { "type": "item", "code": "expandedfoods:breadedmeatnugget-birch-redmeat-charred",  "shapeElement": "bowl/red meat/*", "textureMapping": ["meat", "breading-birch-charred"]  }, 
-      { "type": "item", "code": "expandedfoods:breadedmeatnugget-pine-bushmeat-syruppartbaked",  "shapeElement": "bowl/red meat/*", "textureMapping": ["meat", "breading-pine-syrup"]  }, 
-      { "type": "item", "code": "expandedfoods:breadedmeatnugget-pine-poultry-syruppartbaked",  "shapeElement": "bowl/poultry/*", "textureMapping": ["meat", "breading-pine-syrup"]  }, 
-      { "type": "item", "code": "expandedfoods:breadedmeatnugget-pine-redmeat-syruppartbaked",  "shapeElement": "bowl/red meat/*", "textureMapping": ["meat", "breading-pine-syrup"]  }, 
-      { "type": "item", "code": "expandedfoods:breadedmeatnugget-pine-bushmeat-syrups",  "shapeElement": "bowl/red meat/*", "textureMapping": ["meat", "breading-pine-syrup"]  }, 
-      { "type": "item", "code": "expandedfoods:breadedmeatnugget-pine-poultry-syrups",  "shapeElement": "bowl/poultry/*", "textureMapping": ["meat", "breading-pine-syrup"]  }, 
-      { "type": "item", "code": "expandedfoods:breadedmeatnugget-pine-redmeat-syrups",  "shapeElement": "bowl/red meat/*", "textureMapping": ["meat", "breading-pine-syrup"]  },  
-      { "type": "item", "code": "expandedfoods:breadedmeatnugget-pine-bushmeat-syrupcharred",  "shapeElement": "bowl/red meat/*", "textureMapping": ["meat", "breading-pine-syrup"]  }, 
-      { "type": "item", "code": "expandedfoods:breadedmeatnugget-pine-poultry-syrupcharred",  "shapeElement": "bowl/poultry/*", "textureMapping": ["meat", "breading-pine-syrup"]  }, 
-      { "type": "item", "code": "expandedfoods:breadedmeatnugget-pine-redmeat-syrupcharred",  "shapeElement": "bowl/red meat/*", "textureMapping": ["meat", "breading-pine-syrup"]  }, 
-      { "type": "item", "code": "expandedfoods:breadedmeatnugget-pine-bushmeat-partbaked",  "shapeElement": "bowl/red meat/*", "textureMapping": ["meat", "breading-pine-partbaked"]  }, 
-      { "type": "item", "code": "expandedfoods:breadedmeatnugget-pine-poultry-partbaked",  "shapeElement": "bowl/poultry/*", "textureMapping": ["meat", "breading-pine-partbaked"]  }, 
-      { "type": "item", "code": "expandedfoods:breadedmeatnugget-pine-redmeat-partbaked",  "shapeElement": "bowl/red meat/*", "textureMapping": ["meat", "breading-pine-partbaked"]  }, 
-      { "type": "item", "code": "expandedfoods:breadedmeatnugget-pine-bushmeat-tender",  "shapeElement": "bowl/red meat/*", "textureMapping": ["meat", "breading-pine"]  }, 
-      { "type": "item", "code": "expandedfoods:breadedmeatnugget-pine-poultry-tender",  "shapeElement": "bowl/poultry/*", "textureMapping": ["meat", "breading-pine"]  }, 
-      { "type": "item", "code": "expandedfoods:breadedmeatnugget-pine-redmeat-tender",  "shapeElement": "bowl/red meat/*", "textureMapping": ["meat", "breading-pine"]  }, 
-      { "type": "item", "code": "expandedfoods:breadedmeatnugget-pine-bushmeat-charred",  "shapeElement": "bowl/red meat/*", "textureMapping": ["meat", "breading-pine-charred"]  }, 
-      { "type": "item", "code": "expandedfoods:breadedmeatnugget-pine-poultry-charred",  "shapeElement": "bowl/poultry/*", "textureMapping": ["meat", "breading-pine-charred"]  }, 
-      { "type": "item", "code": "expandedfoods:breadedmeatnugget-pine-redmeat-charred",  "shapeElement": "bowl/red meat/*", "textureMapping": ["meat", "breading-pine-charred"] }  
-    ],
-    "file": "recipes/mixing/pastacold.json",
-    "side": "server",
-    "dependsOn": [{ "modid": "ancienttools" }]
+    "file": "expandedfoods:recipes/mixing/pastacold.json",
+    "op": "remove",
+    "path": "/ingredients/2/validStacks/119",
+    "side": "Server",
+    "dependsOn": [ { "modId": "ancienttools", "invert": true } ]
   },
   {
-    "op": "addeach",
-    "path": "/ingredients/12/validStacks/-",
-    "value": [
-      { "type": "item", "code": "expandedfoods:breadedball-birch-partbaked", "shapeElement": "bowl/meatnugget 1/*", "textureMapping": ["meatnugget", "breading-birch-partbaked"] }, 
-      { "type": "item", "code": "expandedfoods:breadedball-birch-cooked", "shapeElement": "bowl/meatnugget 1/*", "textureMapping": ["meatnugget", "breading-birch"] }, 
-      { "type": "item", "code": "expandedfoods:breadedball-birch-charred", "shapeElement": "bowl/meatnugget 1/*", "textureMapping": ["meatnugget", "breading-birch-charred"] }, 
-      { "type": "item", "code": "expandedfoods:breadedball-birch-syruppartbaked", "shapeElement": "bowl/meatnugget 1/*", "textureMapping": ["meatnugget", "breading-birch-syrup"] }, 
-      { "type": "item", "code": "expandedfoods:breadedball-birch-syrup", "shapeElement": "bowl/meatnugget 1/*", "textureMapping": ["meatnugget", "breading-birch-syrup"] }, 
-      { "type": "item", "code": "expandedfoods:breadedball-birch-syrupcharred", "shapeElement": "bowl/meatnugget 1/*", "textureMapping": ["meatnugget", "breading-birch-syrup"] }, 
-      { "type": "item", "code": "expandedfoods:breadedball-pine-partbaked", "shapeElement": "bowl/meatnugget 1/*", "textureMapping": ["meatnugget", "breading-pine-partbaked"] }, 
-      { "type": "item", "code": "expandedfoods:breadedball-pine-cooked", "shapeElement": "bowl/meatnugget 1/*", "textureMapping": ["meatnugget", "breading-pine"] }, 
-      { "type": "item", "code": "expandedfoods:breadedball-pine-charred", "shapeElement": "bowl/meatnugget 1/*", "textureMapping": ["meatnugget", "breading-pine-charred"] }, 
-      { "type": "item", "code": "expandedfoods:breadedball-pine-syruppartbaked", "shapeElement": "bowl/meatnugget 1/*", "textureMapping": ["meatnugget", "breading-pine-syrup"] }, 
-      { "type": "item", "code": "expandedfoods:breadedball-pine-syrup", "shapeElement": "bowl/meatnugget 1/*", "textureMapping": ["meatnugget", "breading-pine-syrup"] }, 
-      { "type": "item", "code": "expandedfoods:breadedball-pine-syrupcharred", "shapeElement": "bowl/meatnugget 1/*", "textureMapping": ["meatnugget", "breading-pine-syrup"] }
-    ],
-    "file": "recipes/mixing/pastacold.json",
-    "side": "server",
-    "dependsOn": [{ "modid": "ancienttools" }]
+    "file": "expandedfoods:recipes/mixing/pastacold.json",
+    "op": "remove",
+    "path": "/ingredients/2/validStacks/120",
+    "side": "Server",
+    "dependsOn": [ { "modId": "ancienttools", "invert": true } ]
+  },
+  {
+    "file": "expandedfoods:recipes/mixing/pastacold.json",
+    "op": "remove",
+    "path": "/ingredients/2/validStacks/121",
+    "side": "Server",
+    "dependsOn": [ { "modId": "ancienttools", "invert": true } ]
+  },
+  {
+    "file": "expandedfoods:recipes/mixing/pastacold.json",
+    "op": "remove",
+    "path": "/ingredients/2/validStacks/122",
+    "side": "Server",
+    "dependsOn": [ { "modId": "ancienttools", "invert": true } ]
+  },
+  {
+    "file": "expandedfoods:recipes/mixing/pastacold.json",
+    "op": "remove",
+    "path": "/ingredients/2/validStacks/123",
+    "side": "Server",
+    "dependsOn": [ { "modId": "ancienttools", "invert": true } ]
+  },
+  {
+    "file": "expandedfoods:recipes/mixing/pastacold.json",
+    "op": "remove",
+    "path": "/ingredients/2/validStacks/124",
+    "side": "Server",
+    "dependsOn": [ { "modId": "ancienttools", "invert": true } ]
+  },
+  {
+    "file": "expandedfoods:recipes/mixing/pastacold.json",
+    "op": "remove",
+    "path": "/ingredients/2/validStacks/125",
+    "side": "Server",
+    "dependsOn": [ { "modId": "ancienttools", "invert": true } ]
+  },
+  {
+    "file": "expandedfoods:recipes/mixing/pastacold.json",
+    "op": "remove",
+    "path": "/ingredients/2/validStacks/126",
+    "side": "Server",
+    "dependsOn": [ { "modId": "ancienttools", "invert": true } ]
+  },
+  {
+    "file": "expandedfoods:recipes/mixing/pastacold.json",
+    "op": "remove",
+    "path": "/ingredients/2/validStacks/127",
+    "side": "Server",
+    "dependsOn": [ { "modId": "ancienttools", "invert": true } ]
+  },
+  {
+    "file": "expandedfoods:recipes/mixing/pastacold.json",
+    "op": "remove",
+    "path": "/ingredients/2/validStacks/128",
+    "side": "Server",
+    "dependsOn": [ { "modId": "ancienttools", "invert": true } ]
+  },
+  {
+    "file": "expandedfoods:recipes/mixing/pastacold.json",
+    "op": "remove",
+    "path": "/ingredients/2/validStacks/129",
+    "side": "Server",
+    "dependsOn": [ { "modId": "ancienttools", "invert": true } ]
+  },
+  {
+    "file": "expandedfoods:recipes/mixing/pastacold.json",
+    "op": "remove",
+    "path": "/ingredients/2/validStacks/130",
+    "side": "Server",
+    "dependsOn": [ { "modId": "ancienttools", "invert": true } ]
+  },
+  {
+    "file": "expandedfoods:recipes/mixing/pastacold.json",
+    "op": "remove",
+    "path": "/ingredients/2/validStacks/131",
+    "side": "Server",
+    "dependsOn": [ { "modId": "ancienttools", "invert": true } ]
+  },
+  {
+    "file": "expandedfoods:recipes/mixing/pastacold.json",
+    "op": "remove",
+    "path": "/ingredients/2/validStacks/132",
+    "side": "Server",
+    "dependsOn": [ { "modId": "ancienttools", "invert": true } ]
+  },
+  {
+    "file": "expandedfoods:recipes/mixing/pastacold.json",
+    "op": "remove",
+    "path": "/ingredients/2/validStacks/133",
+    "side": "Server",
+    "dependsOn": [ { "modId": "ancienttools", "invert": true } ]
+  },
+  {
+    "file": "expandedfoods:recipes/mixing/pastacold.json",
+    "op": "remove",
+    "path": "/ingredients/2/validStacks/134",
+    "side": "Server",
+    "dependsOn": [ { "modId": "ancienttools", "invert": true } ]
+  },
+  {
+    "file": "expandedfoods:recipes/mixing/pastacold.json",
+    "op": "remove",
+    "path": "/ingredients/2/validStacks/135",
+    "side": "Server",
+    "dependsOn": [ { "modId": "ancienttools", "invert": true } ]
+  },
+  {
+    "file": "expandedfoods:recipes/mixing/pastacold.json",
+    "op": "remove",
+    "path": "/ingredients/2/validStacks/136",
+    "side": "Server",
+    "dependsOn": [ { "modId": "ancienttools", "invert": true } ]
+  },
+  {
+    "file": "expandedfoods:recipes/mixing/pastacold.json",
+    "op": "remove",
+    "path": "/ingredients/2/validStacks/137",
+    "side": "Server",
+    "dependsOn": [ { "modId": "ancienttools", "invert": true } ]
+  },
+  {
+    "file": "expandedfoods:recipes/mixing/pastacold.json",
+    "op": "remove",
+    "path": "/ingredients/2/validStacks/138",
+    "side": "Server",
+    "dependsOn": [ { "modId": "ancienttools", "invert": true } ]
+  },
+  {
+    "file": "expandedfoods:recipes/mixing/pastacold.json",
+    "op": "remove",
+    "path": "/ingredients/2/validStacks/139",
+    "side": "Server",
+    "dependsOn": [ { "modId": "ancienttools", "invert": true } ]
+  },
+  {
+    "file": "expandedfoods:recipes/mixing/pastacold.json",
+    "op": "remove",
+    "path": "/ingredients/3/validStacks/2",
+    "side": "Server",
+    "dependsOn": [ { "modId": "ancienttools", "invert": true } ]
+  },
+  {
+    "file": "expandedfoods:recipes/mixing/pastacold.json",
+    "op": "remove",
+    "path": "/ingredients/3/validStacks/3",
+    "side": "Server",
+    "dependsOn": [ { "modId": "ancienttools", "invert": true } ]
+  },
+  {
+    "file": "expandedfoods:recipes/mixing/pastacold.json",
+    "op": "remove",
+    "path": "/ingredients/3/validStacks/4",
+    "side": "Server",
+    "dependsOn": [ { "modId": "ancienttools", "invert": true } ]
+  },
+  {
+    "file": "expandedfoods:recipes/mixing/pastacold.json",
+    "op": "remove",
+    "path": "/ingredients/3/validStacks/5",
+    "side": "Server",
+    "dependsOn": [ { "modId": "ancienttools", "invert": true } ]
+  },
+  {
+    "file": "expandedfoods:recipes/mixing/pastacold.json",
+    "op": "remove",
+    "path": "/ingredients/3/validStacks/6",
+    "side": "Server",
+    "dependsOn": [ { "modId": "ancienttools", "invert": true } ]
+  },
+  {
+    "file": "expandedfoods:recipes/mixing/pastacold.json",
+    "op": "remove",
+    "path": "/ingredients/3/validStacks/7",
+    "side": "Server",
+    "dependsOn": [ { "modId": "ancienttools", "invert": true } ]
+  },
+  {
+    "file": "expandedfoods:recipes/mixing/pastacold.json",
+    "op": "remove",
+    "path": "/ingredients/3/validStacks/8",
+    "side": "Server",
+    "dependsOn": [ { "modId": "ancienttools", "invert": true } ]
+  },
+  {
+    "file": "expandedfoods:recipes/mixing/pastacold.json",
+    "op": "remove",
+    "path": "/ingredients/3/validStacks/9",
+    "side": "Server",
+    "dependsOn": [ { "modId": "ancienttools", "invert": true } ]
+  },
+  {
+    "file": "expandedfoods:recipes/mixing/pastacold.json",
+    "op": "remove",
+    "path": "/ingredients/3/validStacks/10",
+    "side": "Server",
+    "dependsOn": [ { "modId": "ancienttools", "invert": true } ]
+  },
+  {
+    "file": "expandedfoods:recipes/mixing/pastacold.json",
+    "op": "remove",
+    "path": "/ingredients/3/validStacks/11",
+    "side": "Server",
+    "dependsOn": [ { "modId": "ancienttools", "invert": true } ]
+  },
+  {
+    "file": "expandedfoods:recipes/mixing/pastacold.json",
+    "op": "remove",
+    "path": "/ingredients/3/validStacks/12",
+    "side": "Server",
+    "dependsOn": [ { "modId": "ancienttools", "invert": true } ]
+  },
+  {
+    "file": "expandedfoods:recipes/mixing/pastacold.json",
+    "op": "remove",
+    "path": "/ingredients/3/validStacks/13",
+    "side": "Server",
+    "dependsOn": [ { "modId": "ancienttools", "invert": true } ]
+  },
+  {
+    "file": "expandedfoods:recipes/mixing/pastacold.json",
+    "op": "remove",
+    "path": "/ingredients/3/validStacks/14",
+    "side": "Server",
+    "dependsOn": [ { "modId": "ancienttools", "invert": true } ]
+  },
+  {
+    "file": "expandedfoods:recipes/mixing/pastacold.json",
+    "op": "remove",
+    "path": "/ingredients/3/validStacks/15",
+    "side": "Server",
+    "dependsOn": [ { "modId": "ancienttools", "invert": true } ]
+  },
+  {
+    "file": "expandedfoods:recipes/mixing/pastacold.json",
+    "op": "remove",
+    "path": "/ingredients/3/validStacks/16",
+    "side": "Server",
+    "dependsOn": [ { "modId": "ancienttools", "invert": true } ]
+  },
+  {
+    "file": "expandedfoods:recipes/mixing/pastacold.json",
+    "op": "remove",
+    "path": "/ingredients/3/validStacks/17",
+    "side": "Server",
+    "dependsOn": [ { "modId": "ancienttools", "invert": true } ]
+  },
+  {
+    "file": "expandedfoods:recipes/mixing/pastacold.json",
+    "op": "remove",
+    "path": "/ingredients/3/validStacks/18",
+    "side": "Server",
+    "dependsOn": [ { "modId": "ancienttools", "invert": true } ]
+  },
+  {
+    "file": "expandedfoods:recipes/mixing/pastacold.json",
+    "op": "remove",
+    "path": "/ingredients/3/validStacks/19",
+    "side": "Server",
+    "dependsOn": [ { "modId": "ancienttools", "invert": true } ]
+  },
+  {
+    "file": "expandedfoods:recipes/mixing/pastacold.json",
+    "op": "remove",
+    "path": "/ingredients/3/validStacks/20",
+    "side": "Server",
+    "dependsOn": [ { "modId": "ancienttools", "invert": true } ]
+  },
+  {
+    "file": "expandedfoods:recipes/mixing/pastacold.json",
+    "op": "remove",
+    "path": "/ingredients/3/validStacks/21",
+    "side": "Server",
+    "dependsOn": [ { "modId": "ancienttools", "invert": true } ]
+  },
+  {
+    "file": "expandedfoods:recipes/mixing/pastacold.json",
+    "op": "remove",
+    "path": "/ingredients/3/validStacks/22",
+    "side": "Server",
+    "dependsOn": [ { "modId": "ancienttools", "invert": true } ]
+  },
+  {
+    "file": "expandedfoods:recipes/mixing/pastacold.json",
+    "op": "remove",
+    "path": "/ingredients/3/validStacks/23",
+    "side": "Server",
+    "dependsOn": [ { "modId": "ancienttools", "invert": true } ]
+  },
+  {
+    "file": "expandedfoods:recipes/mixing/pastacold.json",
+    "op": "remove",
+    "path": "/ingredients/3/validStacks/24",
+    "side": "Server",
+    "dependsOn": [ { "modId": "ancienttools", "invert": true } ]
+  },
+  {
+    "file": "expandedfoods:recipes/mixing/pastacold.json",
+    "op": "remove",
+    "path": "/ingredients/3/validStacks/25",
+    "side": "Server",
+    "dependsOn": [ { "modId": "ancienttools", "invert": true } ]
+  },
+  {
+    "file": "expandedfoods:recipes/mixing/pastacold.json",
+    "op": "remove",
+    "path": "/ingredients/4/validStacks/2",
+    "side": "Server",
+    "dependsOn": [ { "modId": "ancienttools", "invert": true } ]
+  },
+  {
+    "file": "expandedfoods:recipes/mixing/pastacold.json",
+    "op": "remove",
+    "path": "/ingredients/4/validStacks/3",
+    "side": "Server",
+    "dependsOn": [ { "modId": "ancienttools", "invert": true } ]
+  },
+  {
+    "file": "expandedfoods:recipes/mixing/pastacold.json",
+    "op": "remove",
+    "path": "/ingredients/4/validStacks/4",
+    "side": "Server",
+    "dependsOn": [ { "modId": "ancienttools", "invert": true } ]
+  },
+  {
+    "file": "expandedfoods:recipes/mixing/pastacold.json",
+    "op": "remove",
+    "path": "/ingredients/4/validStacks/5",
+    "side": "Server",
+    "dependsOn": [ { "modId": "ancienttools", "invert": true } ]
+  },
+  {
+    "file": "expandedfoods:recipes/mixing/pastacold.json",
+    "op": "remove",
+    "path": "/ingredients/4/validStacks/6",
+    "side": "Server",
+    "dependsOn": [ { "modId": "ancienttools", "invert": true } ]
+  },
+  {
+    "file": "expandedfoods:recipes/mixing/pastacold.json",
+    "op": "remove",
+    "path": "/ingredients/4/validStacks/7",
+    "side": "Server",
+    "dependsOn": [ { "modId": "ancienttools", "invert": true } ]
+  },
+  {
+    "file": "expandedfoods:recipes/mixing/pastacold.json",
+    "op": "remove",
+    "path": "/ingredients/4/validStacks/8",
+    "side": "Server",
+    "dependsOn": [ { "modId": "ancienttools", "invert": true } ]
+  },
+  {
+    "file": "expandedfoods:recipes/mixing/pastacold.json",
+    "op": "remove",
+    "path": "/ingredients/4/validStacks/9",
+    "side": "Server",
+    "dependsOn": [ { "modId": "ancienttools", "invert": true } ]
+  },
+  {
+    "file": "expandedfoods:recipes/mixing/pastacold.json",
+    "op": "remove",
+    "path": "/ingredients/4/validStacks/10",
+    "side": "Server",
+    "dependsOn": [ { "modId": "ancienttools", "invert": true } ]
+  },
+  {
+    "file": "expandedfoods:recipes/mixing/pastacold.json",
+    "op": "remove",
+    "path": "/ingredients/4/validStacks/11",
+    "side": "Server",
+    "dependsOn": [ { "modId": "ancienttools", "invert": true } ]
+  },
+  {
+    "file": "expandedfoods:recipes/mixing/pastacold.json",
+    "op": "remove",
+    "path": "/ingredients/4/validStacks/12",
+    "side": "Server",
+    "dependsOn": [ { "modId": "ancienttools", "invert": true } ]
+  },
+  {
+    "file": "expandedfoods:recipes/mixing/pastacold.json",
+    "op": "remove",
+    "path": "/ingredients/4/validStacks/13",
+    "side": "Server",
+    "dependsOn": [ { "modId": "ancienttools", "invert": true } ]
+  },
+  {
+    "file": "expandedfoods:recipes/mixing/pastacold.json",
+    "op": "remove",
+    "path": "/ingredients/4/validStacks/14",
+    "side": "Server",
+    "dependsOn": [ { "modId": "ancienttools", "invert": true } ]
+  },
+  {
+    "file": "expandedfoods:recipes/mixing/pastacold.json",
+    "op": "remove",
+    "path": "/ingredients/4/validStacks/15",
+    "side": "Server",
+    "dependsOn": [ { "modId": "ancienttools", "invert": true } ]
+  },
+  {
+    "file": "expandedfoods:recipes/mixing/pastacold.json",
+    "op": "remove",
+    "path": "/ingredients/4/validStacks/16",
+    "side": "Server",
+    "dependsOn": [ { "modId": "ancienttools", "invert": true } ]
+  },
+  {
+    "file": "expandedfoods:recipes/mixing/pastacold.json",
+    "op": "remove",
+    "path": "/ingredients/4/validStacks/17",
+    "side": "Server",
+    "dependsOn": [ { "modId": "ancienttools", "invert": true } ]
+  },
+  {
+    "file": "expandedfoods:recipes/mixing/pastacold.json",
+    "op": "remove",
+    "path": "/ingredients/4/validStacks/18",
+    "side": "Server",
+    "dependsOn": [ { "modId": "ancienttools", "invert": true } ]
+  },
+  {
+    "file": "expandedfoods:recipes/mixing/pastacold.json",
+    "op": "remove",
+    "path": "/ingredients/4/validStacks/19",
+    "side": "Server",
+    "dependsOn": [ { "modId": "ancienttools", "invert": true } ]
+  },
+  {
+    "file": "expandedfoods:recipes/mixing/pastacold.json",
+    "op": "remove",
+    "path": "/ingredients/4/validStacks/20",
+    "side": "Server",
+    "dependsOn": [ { "modId": "ancienttools", "invert": true } ]
+  },
+  {
+    "file": "expandedfoods:recipes/mixing/pastacold.json",
+    "op": "remove",
+    "path": "/ingredients/4/validStacks/21",
+    "side": "Server",
+    "dependsOn": [ { "modId": "ancienttools", "invert": true } ]
+  },
+  {
+    "file": "expandedfoods:recipes/mixing/pastacold.json",
+    "op": "remove",
+    "path": "/ingredients/4/validStacks/22",
+    "side": "Server",
+    "dependsOn": [ { "modId": "ancienttools", "invert": true } ]
+  },
+  {
+    "file": "expandedfoods:recipes/mixing/pastacold.json",
+    "op": "remove",
+    "path": "/ingredients/4/validStacks/23",
+    "side": "Server",
+    "dependsOn": [ { "modId": "ancienttools", "invert": true } ]
+  },
+  {
+    "file": "expandedfoods:recipes/mixing/pastacold.json",
+    "op": "remove",
+    "path": "/ingredients/4/validStacks/24",
+    "side": "Server",
+    "dependsOn": [ { "modId": "ancienttools", "invert": true } ]
+  },
+  {
+    "file": "expandedfoods:recipes/mixing/pastacold.json",
+    "op": "remove",
+    "path": "/ingredients/4/validStacks/25",
+    "side": "Server",
+    "dependsOn": [ { "modId": "ancienttools", "invert": true } ]
+  },
+  {
+    "file": "expandedfoods:recipes/mixing/pastacold.json",
+    "op": "remove",
+    "path": "/ingredients/4/validStacks/26",
+    "side": "Server",
+    "dependsOn": [ { "modId": "ancienttools", "invert": true } ]
+  },
+  {
+    "file": "expandedfoods:recipes/mixing/pastacold.json",
+    "op": "remove",
+    "path": "/ingredients/4/validStacks/27",
+    "side": "Server",
+    "dependsOn": [ { "modId": "ancienttools", "invert": true } ]
+  },
+  {
+    "file": "expandedfoods:recipes/mixing/pastacold.json",
+    "op": "remove",
+    "path": "/ingredients/4/validStacks/28",
+    "side": "Server",
+    "dependsOn": [ { "modId": "ancienttools", "invert": true } ]
+  },
+  {
+    "file": "expandedfoods:recipes/mixing/pastacold.json",
+    "op": "remove",
+    "path": "/ingredients/5/validStacks/124",
+    "side": "Server",
+    "dependsOn": [ { "modId": "ancienttools", "invert": true } ]
+  },
+  {
+    "file": "expandedfoods:recipes/mixing/pastacold.json",
+    "op": "remove",
+    "path": "/ingredients/5/validStacks/125",
+    "side": "Server",
+    "dependsOn": [ { "modId": "ancienttools", "invert": true } ]
+  },
+  {
+    "file": "expandedfoods:recipes/mixing/pastacold.json",
+    "op": "remove",
+    "path": "/ingredients/5/validStacks/126",
+    "side": "Server",
+    "dependsOn": [ { "modId": "ancienttools", "invert": true } ]
+  },
+  {
+    "file": "expandedfoods:recipes/mixing/pastacold.json",
+    "op": "remove",
+    "path": "/ingredients/5/validStacks/127",
+    "side": "Server",
+    "dependsOn": [ { "modId": "ancienttools", "invert": true } ]
+  },
+  {
+    "file": "expandedfoods:recipes/mixing/pastacold.json",
+    "op": "remove",
+    "path": "/ingredients/5/validStacks/128",
+    "side": "Server",
+    "dependsOn": [ { "modId": "ancienttools", "invert": true } ]
+  },
+  {
+    "file": "expandedfoods:recipes/mixing/pastacold.json",
+    "op": "remove",
+    "path": "/ingredients/5/validStacks/129",
+    "side": "Server",
+    "dependsOn": [ { "modId": "ancienttools", "invert": true } ]
+  },
+  {
+    "file": "expandedfoods:recipes/mixing/pastacold.json",
+    "op": "remove",
+    "path": "/ingredients/5/validStacks/130",
+    "side": "Server",
+    "dependsOn": [ { "modId": "ancienttools", "invert": true } ]
+  },
+  {
+    "file": "expandedfoods:recipes/mixing/pastacold.json",
+    "op": "remove",
+    "path": "/ingredients/5/validStacks/131",
+    "side": "Server",
+    "dependsOn": [ { "modId": "ancienttools", "invert": true } ]
+  },
+  {
+    "file": "expandedfoods:recipes/mixing/pastacold.json",
+    "op": "remove",
+    "path": "/ingredients/5/validStacks/132",
+    "side": "Server",
+    "dependsOn": [ { "modId": "ancienttools", "invert": true } ]
+  },
+  {
+    "file": "expandedfoods:recipes/mixing/pastacold.json",
+    "op": "remove",
+    "path": "/ingredients/5/validStacks/133",
+    "side": "Server",
+    "dependsOn": [ { "modId": "ancienttools", "invert": true } ]
+  },
+  {
+    "file": "expandedfoods:recipes/mixing/pastacold.json",
+    "op": "remove",
+    "path": "/ingredients/5/validStacks/134",
+    "side": "Server",
+    "dependsOn": [ { "modId": "ancienttools", "invert": true } ]
+  },
+  {
+    "file": "expandedfoods:recipes/mixing/pastacold.json",
+    "op": "remove",
+    "path": "/ingredients/5/validStacks/135",
+    "side": "Server",
+    "dependsOn": [ { "modId": "ancienttools", "invert": true } ]
+  },
+  {
+    "file": "expandedfoods:recipes/mixing/pastacold.json",
+    "op": "remove",
+    "path": "/ingredients/5/validStacks/136",
+    "side": "Server",
+    "dependsOn": [ { "modId": "ancienttools", "invert": true } ]
+  },
+  {
+    "file": "expandedfoods:recipes/mixing/pastacold.json",
+    "op": "remove",
+    "path": "/ingredients/5/validStacks/137",
+    "side": "Server",
+    "dependsOn": [ { "modId": "ancienttools", "invert": true } ]
+  },
+  {
+    "file": "expandedfoods:recipes/mixing/pastacold.json",
+    "op": "remove",
+    "path": "/ingredients/5/validStacks/138",
+    "side": "Server",
+    "dependsOn": [ { "modId": "ancienttools", "invert": true } ]
+  },
+  {
+    "file": "expandedfoods:recipes/mixing/pastacold.json",
+    "op": "remove",
+    "path": "/ingredients/5/validStacks/139",
+    "side": "Server",
+    "dependsOn": [ { "modId": "ancienttools", "invert": true } ]
+  },
+  {
+    "file": "expandedfoods:recipes/mixing/pastacold.json",
+    "op": "remove",
+    "path": "/ingredients/5/validStacks/140",
+    "side": "Server",
+    "dependsOn": [ { "modId": "ancienttools", "invert": true } ]
+  },
+  {
+    "file": "expandedfoods:recipes/mixing/pastacold.json",
+    "op": "remove",
+    "path": "/ingredients/5/validStacks/141",
+    "side": "Server",
+    "dependsOn": [ { "modId": "ancienttools", "invert": true } ]
+  },
+  {
+    "file": "expandedfoods:recipes/mixing/pastacold.json",
+    "op": "remove",
+    "path": "/ingredients/5/validStacks/142",
+    "side": "Server",
+    "dependsOn": [ { "modId": "ancienttools", "invert": true } ]
+  },
+  {
+    "file": "expandedfoods:recipes/mixing/pastacold.json",
+    "op": "remove",
+    "path": "/ingredients/5/validStacks/143",
+    "side": "Server",
+    "dependsOn": [ { "modId": "ancienttools", "invert": true } ]
+  },
+  {
+    "file": "expandedfoods:recipes/mixing/pastacold.json",
+    "op": "remove",
+    "path": "/ingredients/5/validStacks/144",
+    "side": "Server",
+    "dependsOn": [ { "modId": "ancienttools", "invert": true } ]
+  },
+  {
+    "file": "expandedfoods:recipes/mixing/pastacold.json",
+    "op": "remove",
+    "path": "/ingredients/5/validStacks/145",
+    "side": "Server",
+    "dependsOn": [ { "modId": "ancienttools", "invert": true } ]
+  },
+  {
+    "file": "expandedfoods:recipes/mixing/pastacold.json",
+    "op": "remove",
+    "path": "/ingredients/5/validStacks/146",
+    "side": "Server",
+    "dependsOn": [ { "modId": "ancienttools", "invert": true } ]
+  },
+  {
+    "file": "expandedfoods:recipes/mixing/pastacold.json",
+    "op": "remove",
+    "path": "/ingredients/5/validStacks/147",
+    "side": "Server",
+    "dependsOn": [ { "modId": "ancienttools", "invert": true } ]
+  },
+  {
+    "file": "expandedfoods:recipes/mixing/pastacold.json",
+    "op": "remove",
+    "path": "/ingredients/5/validStacks/148",
+    "side": "Server",
+    "dependsOn": [ { "modId": "ancienttools", "invert": true } ]
+  },
+  {
+    "file": "expandedfoods:recipes/mixing/pastacold.json",
+    "op": "remove",
+    "path": "/ingredients/5/validStacks/149",
+    "side": "Server",
+    "dependsOn": [ { "modId": "ancienttools", "invert": true } ]
+  },
+  {
+    "file": "expandedfoods:recipes/mixing/pastacold.json",
+    "op": "remove",
+    "path": "/ingredients/5/validStacks/150",
+    "side": "Server",
+    "dependsOn": [ { "modId": "ancienttools", "invert": true } ]
+  },
+  {
+    "file": "expandedfoods:recipes/mixing/pastacold.json",
+    "op": "remove",
+    "path": "/ingredients/5/validStacks/151",
+    "side": "Server",
+    "dependsOn": [ { "modId": "ancienttools", "invert": true } ]
+  },
+  {
+    "file": "expandedfoods:recipes/mixing/pastacold.json",
+    "op": "remove",
+    "path": "/ingredients/5/validStacks/152",
+    "side": "Server",
+    "dependsOn": [ { "modId": "ancienttools", "invert": true } ]
+  },
+  {
+    "file": "expandedfoods:recipes/mixing/pastacold.json",
+    "op": "remove",
+    "path": "/ingredients/5/validStacks/153",
+    "side": "Server",
+    "dependsOn": [ { "modId": "ancienttools", "invert": true } ]
+  },
+  {
+    "file": "expandedfoods:recipes/mixing/pastacold.json",
+    "op": "remove",
+    "path": "/ingredients/5/validStacks/154",
+    "side": "Server",
+    "dependsOn": [ { "modId": "ancienttools", "invert": true } ]
+  },
+  {
+    "file": "expandedfoods:recipes/mixing/pastacold.json",
+    "op": "remove",
+    "path": "/ingredients/5/validStacks/155",
+    "side": "Server",
+    "dependsOn": [ { "modId": "ancienttools", "invert": true } ]
+  },
+  {
+    "file": "expandedfoods:recipes/mixing/pastacold.json",
+    "op": "remove",
+    "path": "/ingredients/5/validStacks/156",
+    "side": "Server",
+    "dependsOn": [ { "modId": "ancienttools", "invert": true } ]
+  },
+  {
+    "file": "expandedfoods:recipes/mixing/pastacold.json",
+    "op": "remove",
+    "path": "/ingredients/5/validStacks/157",
+    "side": "Server",
+    "dependsOn": [ { "modId": "ancienttools", "invert": true } ]
+  },
+  {
+    "file": "expandedfoods:recipes/mixing/pastacold.json",
+    "op": "remove",
+    "path": "/ingredients/5/validStacks/158",
+    "side": "Server",
+    "dependsOn": [ { "modId": "ancienttools", "invert": true } ]
+  },
+  {
+    "file": "expandedfoods:recipes/mixing/pastacold.json",
+    "op": "remove",
+    "path": "/ingredients/5/validStacks/159",
+    "side": "Server",
+    "dependsOn": [ { "modId": "ancienttools", "invert": true } ]
+  },
+  {
+    "file": "expandedfoods:recipes/mixing/pastacold.json",
+    "op": "remove",
+    "path": "/ingredients/5/validStacks/160",
+    "side": "Server",
+    "dependsOn": [ { "modId": "ancienttools", "invert": true } ]
+  },
+  {
+    "file": "expandedfoods:recipes/mixing/pastacold.json",
+    "op": "remove",
+    "path": "/ingredients/5/validStacks/161",
+    "side": "Server",
+    "dependsOn": [ { "modId": "ancienttools", "invert": true } ]
+  },
+  {
+    "file": "expandedfoods:recipes/mixing/pastacold.json",
+    "op": "remove",
+    "path": "/ingredients/5/validStacks/162",
+    "side": "Server",
+    "dependsOn": [ { "modId": "ancienttools", "invert": true } ]
+  },
+  {
+    "file": "expandedfoods:recipes/mixing/pastacold.json",
+    "op": "remove",
+    "path": "/ingredients/5/validStacks/163",
+    "side": "Server",
+    "dependsOn": [ { "modId": "ancienttools", "invert": true } ]
+  },
+  {
+    "file": "expandedfoods:recipes/mixing/pastacold.json",
+    "op": "remove",
+    "path": "/ingredients/5/validStacks/164",
+    "side": "Server",
+    "dependsOn": [ { "modId": "ancienttools", "invert": true } ]
+  },
+  {
+    "file": "expandedfoods:recipes/mixing/pastacold.json",
+    "op": "remove",
+    "path": "/ingredients/5/validStacks/165",
+    "side": "Server",
+    "dependsOn": [ { "modId": "ancienttools", "invert": true } ]
+  },
+  {
+    "file": "expandedfoods:recipes/mixing/pastacold.json",
+    "op": "remove",
+    "path": "/ingredients/5/validStacks/166",
+    "side": "Server",
+    "dependsOn": [ { "modId": "ancienttools", "invert": true } ]
+  },
+  {
+    "file": "expandedfoods:recipes/mixing/pastacold.json",
+    "op": "remove",
+    "path": "/ingredients/5/validStacks/167",
+    "side": "Server",
+    "dependsOn": [ { "modId": "ancienttools", "invert": true } ]
+  },
+  {
+    "file": "expandedfoods:recipes/mixing/pastacold.json",
+    "op": "remove",
+    "path": "/ingredients/5/validStacks/168",
+    "side": "Server",
+    "dependsOn": [ { "modId": "ancienttools", "invert": true } ]
+  },
+  {
+    "file": "expandedfoods:recipes/mixing/pastacold.json",
+    "op": "remove",
+    "path": "/ingredients/5/validStacks/169",
+    "side": "Server",
+    "dependsOn": [ { "modId": "ancienttools", "invert": true } ]
+  },
+  {
+    "file": "expandedfoods:recipes/mixing/pastacold.json",
+    "op": "remove",
+    "path": "/ingredients/5/validStacks/170",
+    "side": "Server",
+    "dependsOn": [ { "modId": "ancienttools", "invert": true } ]
+  },
+  {
+    "file": "expandedfoods:recipes/mixing/pastacold.json",
+    "op": "remove",
+    "path": "/ingredients/5/validStacks/171",
+    "side": "Server",
+    "dependsOn": [ { "modId": "ancienttools", "invert": true } ]
+  },
+  {
+    "file": "expandedfoods:recipes/mixing/pastacold.json",
+    "op": "remove",
+    "path": "/ingredients/5/validStacks/172",
+    "side": "Server",
+    "dependsOn": [ { "modId": "ancienttools", "invert": true } ]
+  },
+  {
+    "file": "expandedfoods:recipes/mixing/pastacold.json",
+    "op": "remove",
+    "path": "/ingredients/5/validStacks/173",
+    "side": "Server",
+    "dependsOn": [ { "modId": "ancienttools", "invert": true } ]
+  },
+  {
+    "file": "expandedfoods:recipes/mixing/pastacold.json",
+    "op": "remove",
+    "path": "/ingredients/5/validStacks/174",
+    "side": "Server",
+    "dependsOn": [ { "modId": "ancienttools", "invert": true } ]
+  },
+  {
+    "file": "expandedfoods:recipes/mixing/pastacold.json",
+    "op": "remove",
+    "path": "/ingredients/5/validStacks/175",
+    "side": "Server",
+    "dependsOn": [ { "modId": "ancienttools", "invert": true } ]
+  },
+  {
+    "file": "expandedfoods:recipes/mixing/pastacold.json",
+    "op": "remove",
+    "path": "/ingredients/5/validStacks/176",
+    "side": "Server",
+    "dependsOn": [ { "modId": "ancienttools", "invert": true } ]
+  },
+  {
+    "file": "expandedfoods:recipes/mixing/pastacold.json",
+    "op": "remove",
+    "path": "/ingredients/5/validStacks/177",
+    "side": "Server",
+    "dependsOn": [ { "modId": "ancienttools", "invert": true } ]
+  },
+  {
+    "file": "expandedfoods:recipes/mixing/pastacold.json",
+    "op": "remove",
+    "path": "/ingredients/5/validStacks/178",
+    "side": "Server",
+    "dependsOn": [ { "modId": "ancienttools", "invert": true } ]
+  },
+  {
+    "file": "expandedfoods:recipes/mixing/pastacold.json",
+    "op": "remove",
+    "path": "/ingredients/5/validStacks/179",
+    "side": "Server",
+    "dependsOn": [ { "modId": "ancienttools", "invert": true } ]
+  },
+  {
+    "file": "expandedfoods:recipes/mixing/pastacold.json",
+    "op": "remove",
+    "path": "/ingredients/5/validStacks/180",
+    "side": "Server",
+    "dependsOn": [ { "modId": "ancienttools", "invert": true } ]
+  },
+  {
+    "file": "expandedfoods:recipes/mixing/pastacold.json",
+    "op": "remove",
+    "path": "/ingredients/5/validStacks/181",
+    "side": "Server",
+    "dependsOn": [ { "modId": "ancienttools", "invert": true } ]
+  },
+  {
+    "file": "expandedfoods:recipes/mixing/pastacold.json",
+    "op": "remove",
+    "path": "/ingredients/5/validStacks/182",
+    "side": "Server",
+    "dependsOn": [ { "modId": "ancienttools", "invert": true } ]
+  },
+  {
+    "file": "expandedfoods:recipes/mixing/pastacold.json",
+    "op": "remove",
+    "path": "/ingredients/5/validStacks/183",
+    "side": "Server",
+    "dependsOn": [ { "modId": "ancienttools", "invert": true } ]
+  },
+  {
+    "file": "expandedfoods:recipes/mixing/pastacold.json",
+    "op": "remove",
+    "path": "/ingredients/5/validStacks/184",
+    "side": "Server",
+    "dependsOn": [ { "modId": "ancienttools", "invert": true } ]
+  },
+  {
+    "file": "expandedfoods:recipes/mixing/pastacold.json",
+    "op": "remove",
+    "path": "/ingredients/5/validStacks/185",
+    "side": "Server",
+    "dependsOn": [ { "modId": "ancienttools", "invert": true } ]
+  },
+  {
+    "file": "expandedfoods:recipes/mixing/pastacold.json",
+    "op": "remove",
+    "path": "/ingredients/5/validStacks/186",
+    "side": "Server",
+    "dependsOn": [ { "modId": "ancienttools", "invert": true } ]
+  },
+  {
+    "file": "expandedfoods:recipes/mixing/pastacold.json",
+    "op": "remove",
+    "path": "/ingredients/12/validStacks/3",
+    "side": "Server",
+    "dependsOn": [ { "modId": "ancienttools", "invert": true } ]
+  },
+  {
+    "file": "expandedfoods:recipes/mixing/pastacold.json",
+    "op": "remove",
+    "path": "/ingredients/12/validStacks/4",
+    "side": "Server",
+    "dependsOn": [ { "modId": "ancienttools", "invert": true } ]
+  },
+  {
+    "file": "expandedfoods:recipes/mixing/pastacold.json",
+    "op": "remove",
+    "path": "/ingredients/12/validStacks/5",
+    "side": "Server",
+    "dependsOn": [ { "modId": "ancienttools", "invert": true } ]
+  },
+  {
+    "file": "expandedfoods:recipes/mixing/pastacold.json",
+    "op": "remove",
+    "path": "/ingredients/12/validStacks/6",
+    "side": "Server",
+    "dependsOn": [ { "modId": "ancienttools", "invert": true } ]
+  },
+  {
+    "file": "expandedfoods:recipes/mixing/pastacold.json",
+    "op": "remove",
+    "path": "/ingredients/12/validStacks/7",
+    "side": "Server",
+    "dependsOn": [ { "modId": "ancienttools", "invert": true } ]
+  },
+  {
+    "file": "expandedfoods:recipes/mixing/pastacold.json",
+    "op": "remove",
+    "path": "/ingredients/12/validStacks/8",
+    "side": "Server",
+    "dependsOn": [ { "modId": "ancienttools", "invert": true } ]
+  },
+  {
+    "file": "expandedfoods:recipes/mixing/pastacold.json",
+    "op": "remove",
+    "path": "/ingredients/12/validStacks/9",
+    "side": "Server",
+    "dependsOn": [ { "modId": "ancienttools", "invert": true } ]
+  },
+  {
+    "file": "expandedfoods:recipes/mixing/pastacold.json",
+    "op": "remove",
+    "path": "/ingredients/12/validStacks/10",
+    "side": "Server",
+    "dependsOn": [ { "modId": "ancienttools", "invert": true } ]
+  },
+  {
+    "file": "expandedfoods:recipes/mixing/pastacold.json",
+    "op": "remove",
+    "path": "/ingredients/12/validStacks/11",
+    "side": "Server",
+    "dependsOn": [ { "modId": "ancienttools", "invert": true } ]
+  },
+  {
+    "file": "expandedfoods:recipes/mixing/pastacold.json",
+    "op": "remove",
+    "path": "/ingredients/12/validStacks/12",
+    "side": "Server",
+    "dependsOn": [ { "modId": "ancienttools", "invert": true } ]
+  },
+  {
+    "file": "expandedfoods:recipes/mixing/pastacold.json",
+    "op": "remove",
+    "path": "/ingredients/12/validStacks/13",
+    "side": "Server",
+    "dependsOn": [ { "modId": "ancienttools", "invert": true } ]
+  },
+  {
+    "file": "expandedfoods:recipes/mixing/pastacold.json",
+    "op": "remove",
+    "path": "/ingredients/12/validStacks/14",
+    "side": "Server",
+    "dependsOn": [ { "modId": "ancienttools", "invert": true } ]
   }
 ]

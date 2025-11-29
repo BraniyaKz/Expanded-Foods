@@ -1,5 +1,6 @@
 ﻿[
     {
+        "file": "game:recipes/cooking/augratin.json",
         "op": "addeach",
         "path": "/ingredients/5/validStacks/-",
         "value": [
@@ -14,11 +15,11 @@
             { "type": "item", "code": "expandedfoods:saltedmeatnugget-poultry-smashed", "shapeElement": "bowl/red meat/*", "texturemapping": [ "meat", "group3" ] },
             { "type": "item", "code": "ancienttools:brain", "shapeElement": "bowl/meatnugget 1/*", "texturemapping": [ "meatnugget", "brain" ] }
         ],
-    "file": "game:recipes/cooking/augratin.json",
-    "side": "server",
-    "dependsOn": [{ "modid": "ancienttools" }]
+        "side": "Server",
+        "dependsOn": [ { "modId": "ancienttools" } ]
     },
     {
+        "file": "game:recipes/cooking/augratin.json",
         "op": "addeach",
         "path": "/ingredients/6/validStacks/-",
         "value": [
@@ -33,8 +34,7 @@
             { "type": "item", "code": "expandedfoods:saltedmeatnugget-poultry-smashed", "shapeElement": "bowl/red meat/*", "texturemapping": [ "meat", "group3" ] },
             { "type": "item", "code": "ancienttools:brain", "shapeElement": "bowl/meatnugget 1/*", "texturemapping": [ "meatnugget", "brain" ] }
         ],
-    "file": "game:recipes/cooking/augratin.json",
-    "side": "server",
-    "dependsOn": [{ "modid": "ancienttools" }]
+        "side": "Server",
+        "dependsOn": [ { "modId": "ancienttools" } ]
   }
 ]
