@@ -1,10 +1,52 @@
 ﻿[
- {
-    "file": "expandedfoods:itemtypes/food/mixing/breadedmushroom.json",
-    "op": "addmerge", 
-    "path": "/skipVariants",
-    "value": [ "breadedmushroom-birch-*", "breadedmushroom-pine-*", "breadedmushroom-maple-*"],
-    "side": "server",
-    "dependsOn": [{ "modid": "ancienttools", "invert": true }]
- }
+   {
+      "file": "expandedfoods:itemtypes/food/mixing/breadedmushroom.json",
+      "op": "addmerge",
+      "path": "/skipVariants/-",
+      "value": [ "breadedmushroom-birch-*", "breadedmushroom-pine-*", "breadedmushroom-maple-*" ],
+      "side": "Server",
+      "dependsOn": [ { "modId": "ancienttools", "invert": true } ]
+   },
+   {
+      "file": "expandedfoods:itemtypes/food/mixing/breadedmushroom.json",
+      "op": "remove",
+      "path": "/attributes/expandedNutritionProps/ancienttools:barkflour-birch",
+      "side": "Server",
+      "dependsOn": [ { "modId": "ancienttools", "invert": true } ]
+   },
+   {
+      "file": "expandedfoods:itemtypes/food/mixing/breadedmushroom.json",
+      "op": "remove",
+      "path": "/attributes/expandedNutritionProps/ancienttools:barkflour-pine",
+      "side": "Server",
+      "dependsOn": [ { "modId": "ancienttools", "invert": true } ]
+   },
+   {
+      "file": "expandedfoods:itemtypes/food/mixing/breadedmushroom.json",
+      "op": "remove",
+      "path": "/attributes/expandedNutritionProps/ancienttools:barkflour-maple",
+      "side": "Server",
+      "dependsOn": [ { "modId": "ancienttools", "invert": true } ]
+   },
+   {
+      "file": "expandedfoods:itemtypes/food/mixing/breadedmushroom.json",
+      "op": "remove",
+      "path": "/attributes/expandedNutritionProps/expandedfoods:breadcrumbs-birch",
+      "side": "Server",
+      "dependsOn": [ { "modId": "ancienttools", "invert": true } ]
+   },
+   {
+      "file": "expandedfoods:itemtypes/food/mixing/breadedmushroom.json",
+      "op": "remove",
+      "path": "/attributes/expandedNutritionProps/expandedfoods:breadcrumbs-pine",
+      "side": "Server",
+      "dependsOn": [ { "modId": "ancienttools", "invert": true } ]
+   },
+   {
+      "file": "expandedfoods:itemtypes/food/mixing/breadedmushroom.json",
+      "op": "remove",
+      "path": "/attributes/expandedNutritionProps/expandedfoods:breadcrumbs-maple",
+      "side": "Server",
+      "dependsOn": [ { "modId": "ancienttools", "invert": true } ]
+   }
 ]

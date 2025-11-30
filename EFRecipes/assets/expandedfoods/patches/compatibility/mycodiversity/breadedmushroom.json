@@ -1,0 +1,674 @@
+[
+    {
+        "file": "expandedfoods:itemtypes/food/mixing/breadedmushroom.json",
+        "op": "remove",
+        "path": "/attributes/renderIngredients/game:mushroom-aniseedfunnel-normal",
+        "side": "Server",
+        "dependsOn": [ { "modId": "mycodiversity", "invert": true } ]
+    },
+    {
+        "file": "expandedfoods:itemtypes/food/mixing/breadedmushroom.json",
+        "op": "remove",
+        "path": "/attributes/renderIngredients/game:mushroom-aspenbolete-normal",
+        "side": "Server",
+        "dependsOn": [ { "modId": "mycodiversity", "invert": true } ]
+    },
+    {
+        "file": "expandedfoods:itemtypes/food/mixing/breadedmushroom.json",
+        "op": "remove",
+        "path": "/attributes/renderIngredients/game:mushroom-birchbolete-normal",
+        "side": "Server",
+        "dependsOn": [ { "modId": "mycodiversity", "invert": true } ]
+    },
+    {
+        "file": "expandedfoods:itemtypes/food/mixing/breadedmushroom.json",
+        "op": "remove",
+        "path": "/attributes/renderIngredients/game:mushroom-blewit-normal",
+        "side": "Server",
+        "dependsOn": [ { "modId": "mycodiversity", "invert": true } ]
+    },
+    {
+        "file": "expandedfoods:itemtypes/food/mixing/breadedmushroom.json",
+        "op": "remove",
+        "path": "/attributes/renderIngredients/game:mushroom-bluechanterelle-normal",
+        "side": "Server",
+        "dependsOn": [ { "modId": "mycodiversity", "invert": true } ]
+    },
+    {
+        "file": "expandedfoods:itemtypes/food/mixing/breadedmushroom.json",
+        "op": "remove",
+        "path": "/attributes/renderIngredients/game:mushroom-candycap-normal",
+        "side": "Server",
+        "dependsOn": [ { "modId": "mycodiversity", "invert": true } ]
+    },
+    {
+        "file": "expandedfoods:itemtypes/food/mixing/breadedmushroom.json",
+        "op": "remove",
+        "path": "/attributes/renderIngredients/game:mushroom-coccora-normal",
+        "side": "Server",
+        "dependsOn": [ { "modId": "mycodiversity", "invert": true } ]
+    },
+    {
+        "file": "expandedfoods:itemtypes/food/mixing/breadedmushroom.json",
+        "op": "remove",
+        "path": "/attributes/renderIngredients/game:mushroom-desertshaggymane-normal",
+        "side": "Server",
+        "dependsOn": [ { "modId": "mycodiversity", "invert": true } ]
+    },
+    {
+        "file": "expandedfoods:itemtypes/food/mixing/breadedmushroom.json",
+        "op": "remove",
+        "path": "/attributes/renderIngredients/game:mushroom-destroyingangel-normal",
+        "side": "Server",
+        "dependsOn": [ { "modId": "mycodiversity", "invert": true } ]
+    },
+    {
+        "file": "expandedfoods:itemtypes/food/mixing/breadedmushroom.json",
+        "op": "remove",
+        "path": "/attributes/renderIngredients/game:mushroom-dyerspolypore-normal",
+        "side": "Server",
+        "dependsOn": [ { "modId": "mycodiversity", "invert": true } ]
+    },
+    {
+        "file": "expandedfoods:itemtypes/food/mixing/breadedmushroom.json",
+        "op": "remove",
+        "path": "/attributes/renderIngredients/game:mushroom-falseearthstar-normal",
+        "side": "Server",
+        "dependsOn": [ { "modId": "mycodiversity", "invert": true } ]
+    },
+    {
+        "file": "expandedfoods:itemtypes/food/mixing/breadedmushroom.json",
+        "op": "remove",
+        "path": "/attributes/renderIngredients/game:mushroom-flattoppedclubcoral-normal",
+        "side": "Server",
+        "dependsOn": [ { "modId": "mycodiversity", "invert": true } ]
+    },
+    {
+        "file": "expandedfoods:itemtypes/food/mixing/breadedmushroom.json",
+        "op": "remove",
+        "path": "/attributes/renderIngredients/game:mushroom-friedchickenmushroom-normal",
+        "side": "Server",
+        "dependsOn": [ { "modId": "mycodiversity", "invert": true } ]
+    },
+    {
+        "file": "expandedfoods:itemtypes/food/mixing/breadedmushroom.json",
+        "op": "remove",
+        "path": "/attributes/renderIngredients/game:mushroom-greenearthtongue-normal",
+        "side": "Server",
+        "dependsOn": [ { "modId": "mycodiversity", "invert": true } ]
+    },
+    {
+        "file": "expandedfoods:itemtypes/food/mixing/breadedmushroom.json",
+        "op": "remove",
+        "path": "/attributes/renderIngredients/game:mushroom-hawkwing-normal",
+        "side": "Server",
+        "dependsOn": [ { "modId": "mycodiversity", "invert": true } ]
+    },
+    {
+        "file": "expandedfoods:itemtypes/food/mixing/breadedmushroom.json",
+        "op": "remove",
+        "path": "/attributes/renderIngredients/game:mushroom-hedgehogmushroom-normal",
+        "side": "Server",
+        "dependsOn": [ { "modId": "mycodiversity", "invert": true } ]
+    },
+    {
+        "file": "expandedfoods:itemtypes/food/mixing/breadedmushroom.json",
+        "op": "remove",
+        "path": "/attributes/renderIngredients/game:mushroom-honeymushroom-normal",
+        "side": "Server",
+        "dependsOn": [ { "modId": "mycodiversity", "invert": true } ]
+    },
+    {
+        "file": "expandedfoods:itemtypes/food/mixing/breadedmushroom.json",
+        "op": "remove",
+        "path": "/attributes/renderIngredients/game:mushroom-matsutake-normal",
+        "side": "Server",
+        "dependsOn": [ { "modId": "mycodiversity", "invert": true } ]
+    },
+    {
+        "file": "expandedfoods:itemtypes/food/mixing/breadedmushroom.json",
+        "op": "remove",
+        "path": "/attributes/renderIngredients/game:mushroom-northernreddye-normal",
+        "side": "Server",
+        "dependsOn": [ { "modId": "mycodiversity", "invert": true } ]
+    },
+    {
+        "file": "expandedfoods:itemtypes/food/mixing/breadedmushroom.json",
+        "op": "remove",
+        "path": "/attributes/renderIngredients/game:mushroom-parasol-normal",
+        "side": "Server",
+        "dependsOn": [ { "modId": "mycodiversity", "invert": true } ]
+    },
+    {
+        "file": "expandedfoods:itemtypes/food/mixing/breadedmushroom.json",
+        "op": "remove",
+        "path": "/attributes/renderIngredients/game:mushroom-purplefairyclub-normal",
+        "side": "Server",
+        "dependsOn": [ { "modId": "mycodiversity", "invert": true } ]
+    },
+    {
+        "file": "expandedfoods:itemtypes/food/mixing/breadedmushroom.json",
+        "op": "remove",
+        "path": "/attributes/renderIngredients/game:mushroom-queenbolete-normal",
+        "side": "Server",
+        "dependsOn": [ { "modId": "mycodiversity", "invert": true } ]
+    },
+    {
+        "file": "expandedfoods:itemtypes/food/mixing/breadedmushroom.json",
+        "op": "remove",
+        "path": "/attributes/renderIngredients/game:mushroom-questionablestropharia-normal",
+        "side": "Server",
+        "dependsOn": [ { "modId": "mycodiversity", "invert": true } ]
+    },
+    {
+        "file": "expandedfoods:itemtypes/food/mixing/breadedmushroom.json",
+        "op": "remove",
+        "path": "/attributes/renderIngredients/game:mushroom-redramaria-normal",
+        "side": "Server",
+        "dependsOn": [ { "modId": "mycodiversity", "invert": true } ]
+    },
+    {
+        "file": "expandedfoods:itemtypes/food/mixing/breadedmushroom.json",
+        "op": "remove",
+        "path": "/attributes/renderIngredients/game:mushroom-shaggymane-normal",
+        "side": "Server",
+        "dependsOn": [ { "modId": "mycodiversity", "invert": true } ]
+    },
+    {
+        "file": "expandedfoods:itemtypes/food/mixing/breadedmushroom.json",
+        "op": "remove",
+        "path": "/attributes/renderIngredients/game:mushroom-shrimpmushroom-normal",
+        "side": "Server",
+        "dependsOn": [ { "modId": "mycodiversity", "invert": true } ]
+    },
+    {
+        "file": "expandedfoods:itemtypes/food/mixing/breadedmushroom.json",
+        "op": "remove",
+        "path": "/attributes/renderIngredients/game:mushroom-slipperyjack-normal",
+        "side": "Server",
+        "dependsOn": [ { "modId": "mycodiversity", "invert": true } ]
+    },
+    {
+        "file": "expandedfoods:itemtypes/food/mixing/breadedmushroom.json",
+        "op": "remove",
+        "path": "/attributes/renderIngredients/game:mushroom-stinkhorn-normal",
+        "side": "Server",
+        "dependsOn": [ { "modId": "mycodiversity", "invert": true } ]
+    },
+    {
+        "file": "expandedfoods:itemtypes/food/mixing/breadedmushroom.json",
+        "op": "remove",
+        "path": "/attributes/renderIngredients/game:mushroom-sulfurtuft-normal",
+        "side": "Server",
+        "dependsOn": [ { "modId": "mycodiversity", "invert": true } ]
+    },
+    {
+        "file": "expandedfoods:itemtypes/food/mixing/breadedmushroom.json",
+        "op": "remove",
+        "path": "/attributes/renderIngredients/game:mushroom-winterchanterelle-normal",
+        "side": "Server",
+        "dependsOn": [ { "modId": "mycodiversity", "invert": true } ]
+    },
+    {
+        "file": "expandedfoods:itemtypes/food/mixing/breadedmushroom.json",
+        "op": "remove",
+        "path": "/attributes/renderIngredients/game:mushroom-yellowramaria-normal",
+        "side": "Server",
+        "dependsOn": [ { "modId": "mycodiversity", "invert": true } ]
+    },
+    {
+        "file": "expandedfoods:itemtypes/food/mixing/breadedmushroom.json",
+        "op": "remove",
+        "path": "/attributes/renderIngredients/game:mushroom-yellowstainer-normal",
+        "side": "Server",
+        "dependsOn": [ { "modId": "mycodiversity", "invert": true } ]
+    },
+    {
+        "file": "expandedfoods:itemtypes/food/mixing/breadedmushroom.json",
+        "op": "remove",
+        "path": "/texturesByType/@*-(syruppartbaked|syrup|syrupcharred)/aniseedfunnel",
+        "side": "Server",
+        "dependsOn": [ { "modId": "mycodiversity", "invert": true } ]
+    },
+    {
+        "file": "expandedfoods:itemtypes/food/mixing/breadedmushroom.json",
+        "op": "remove",
+        "path": "/texturesByType/@*-(syruppartbaked|syrup|syrupcharred)/aspenbolete",
+        "side": "Server",
+        "dependsOn": [ { "modId": "mycodiversity", "invert": true } ]
+    },
+    {
+        "file": "expandedfoods:itemtypes/food/mixing/breadedmushroom.json",
+        "op": "remove",
+        "path": "/texturesByType/@*-(syruppartbaked|syrup|syrupcharred)/birchbolete",
+        "side": "Server",
+        "dependsOn": [ { "modId": "mycodiversity", "invert": true } ]
+    },
+    {
+        "file": "expandedfoods:itemtypes/food/mixing/breadedmushroom.json",
+        "op": "remove",
+        "path": "/texturesByType/@*-(syruppartbaked|syrup|syrupcharred)/blewit",
+        "side": "Server",
+        "dependsOn": [ { "modId": "mycodiversity", "invert": true } ]
+    },
+    {
+        "file": "expandedfoods:itemtypes/food/mixing/breadedmushroom.json",
+        "op": "remove",
+        "path": "/texturesByType/@*-(syruppartbaked|syrup|syrupcharred)/bluechanterelle",
+        "side": "Server",
+        "dependsOn": [ { "modId": "mycodiversity", "invert": true } ]
+    },
+    {
+        "file": "expandedfoods:itemtypes/food/mixing/breadedmushroom.json",
+        "op": "remove",
+        "path": "/texturesByType/@*-(syruppartbaked|syrup|syrupcharred)/candycap",
+        "side": "Server",
+        "dependsOn": [ { "modId": "mycodiversity", "invert": true } ]
+    },
+    {
+        "file": "expandedfoods:itemtypes/food/mixing/breadedmushroom.json",
+        "op": "remove",
+        "path": "/texturesByType/@*-(syruppartbaked|syrup|syrupcharred)/coccora",
+        "side": "Server",
+        "dependsOn": [ { "modId": "mycodiversity", "invert": true } ]
+    },
+    {
+        "file": "expandedfoods:itemtypes/food/mixing/breadedmushroom.json",
+        "op": "remove",
+        "path": "/texturesByType/@*-(syruppartbaked|syrup|syrupcharred)/desertshaggymane",
+        "side": "Server",
+        "dependsOn": [ { "modId": "mycodiversity", "invert": true } ]
+    },
+    {
+        "file": "expandedfoods:itemtypes/food/mixing/breadedmushroom.json",
+        "op": "remove",
+        "path": "/texturesByType/@*-(syruppartbaked|syrup|syrupcharred)/destroyingangel",
+        "side": "Server",
+        "dependsOn": [ { "modId": "mycodiversity", "invert": true } ]
+    },
+    {
+        "file": "expandedfoods:itemtypes/food/mixing/breadedmushroom.json",
+        "op": "remove",
+        "path": "/texturesByType/@*-(syruppartbaked|syrup|syrupcharred)/dyerspolypore",
+        "side": "Server",
+        "dependsOn": [ { "modId": "mycodiversity", "invert": true } ]
+    },
+    {
+        "file": "expandedfoods:itemtypes/food/mixing/breadedmushroom.json",
+        "op": "remove",
+        "path": "/texturesByType/@*-(syruppartbaked|syrup|syrupcharred)/falseearthstar",
+        "side": "Server",
+        "dependsOn": [ { "modId": "mycodiversity", "invert": true } ]
+    },
+    {
+        "file": "expandedfoods:itemtypes/food/mixing/breadedmushroom.json",
+        "op": "remove",
+        "path": "/texturesByType/@*-(syruppartbaked|syrup|syrupcharred)/flattoppedclubcoral",
+        "side": "Server",
+        "dependsOn": [ { "modId": "mycodiversity", "invert": true } ]
+    },
+    {
+        "file": "expandedfoods:itemtypes/food/mixing/breadedmushroom.json",
+        "op": "remove",
+        "path": "/texturesByType/@*-(syruppartbaked|syrup|syrupcharred)/friedchickenmushroom",
+        "side": "Server",
+        "dependsOn": [ { "modId": "mycodiversity", "invert": true } ]
+    },
+    {
+        "file": "expandedfoods:itemtypes/food/mixing/breadedmushroom.json",
+        "op": "remove",
+        "path": "/texturesByType/@*-(syruppartbaked|syrup|syrupcharred)/greenearthtongue",
+        "side": "Server",
+        "dependsOn": [ { "modId": "mycodiversity", "invert": true } ]
+    },
+    {
+        "file": "expandedfoods:itemtypes/food/mixing/breadedmushroom.json",
+        "op": "remove",
+        "path": "/texturesByType/@*-(syruppartbaked|syrup|syrupcharred)/hawkwing",
+        "side": "Server",
+        "dependsOn": [ { "modId": "mycodiversity", "invert": true } ]
+    },
+    {
+        "file": "expandedfoods:itemtypes/food/mixing/breadedmushroom.json",
+        "op": "remove",
+        "path": "/texturesByType/@*-(syruppartbaked|syrup|syrupcharred)/hedgehogmushroom",
+        "side": "Server",
+        "dependsOn": [ { "modId": "mycodiversity", "invert": true } ]
+    },
+    {
+        "file": "expandedfoods:itemtypes/food/mixing/breadedmushroom.json",
+        "op": "remove",
+        "path": "/texturesByType/@*-(syruppartbaked|syrup|syrupcharred)/honeymushroom",
+        "side": "Server",
+        "dependsOn": [ { "modId": "mycodiversity", "invert": true } ]
+    },
+    {
+        "file": "expandedfoods:itemtypes/food/mixing/breadedmushroom.json",
+        "op": "remove",
+        "path": "/texturesByType/@*-(syruppartbaked|syrup|syrupcharred)/matsutake",
+        "side": "Server",
+        "dependsOn": [ { "modId": "mycodiversity", "invert": true } ]
+    },
+    {
+        "file": "expandedfoods:itemtypes/food/mixing/breadedmushroom.json",
+        "op": "remove",
+        "path": "/texturesByType/@*-(syruppartbaked|syrup|syrupcharred)/northernreddye",
+        "side": "Server",
+        "dependsOn": [ { "modId": "mycodiversity", "invert": true } ]
+    },
+    {
+        "file": "expandedfoods:itemtypes/food/mixing/breadedmushroom.json",
+        "op": "remove",
+        "path": "/texturesByType/@*-(syruppartbaked|syrup|syrupcharred)/parasol",
+        "side": "Server",
+        "dependsOn": [ { "modId": "mycodiversity", "invert": true } ]
+    },
+    {
+        "file": "expandedfoods:itemtypes/food/mixing/breadedmushroom.json",
+        "op": "remove",
+        "path": "/texturesByType/@*-(syruppartbaked|syrup|syrupcharred)/purplefairyclub",
+        "side": "Server",
+        "dependsOn": [ { "modId": "mycodiversity", "invert": true } ]
+    },
+    {
+        "file": "expandedfoods:itemtypes/food/mixing/breadedmushroom.json",
+        "op": "remove",
+        "path": "/texturesByType/@*-(syruppartbaked|syrup|syrupcharred)/queenbolete",
+        "side": "Server",
+        "dependsOn": [ { "modId": "mycodiversity", "invert": true } ]
+    },
+    {
+        "file": "expandedfoods:itemtypes/food/mixing/breadedmushroom.json",
+        "op": "remove",
+        "path": "/texturesByType/@*-(syruppartbaked|syrup|syrupcharred)/questionablestropharia",
+        "side": "Server",
+        "dependsOn": [ { "modId": "mycodiversity", "invert": true } ]
+    },
+    {
+        "file": "expandedfoods:itemtypes/food/mixing/breadedmushroom.json",
+        "op": "remove",
+        "path": "/texturesByType/@*-(syruppartbaked|syrup|syrupcharred)/redramaria",
+        "side": "Server",
+        "dependsOn": [ { "modId": "mycodiversity", "invert": true } ]
+    },
+    {
+        "file": "expandedfoods:itemtypes/food/mixing/breadedmushroom.json",
+        "op": "remove",
+        "path": "/texturesByType/@*-(syruppartbaked|syrup|syrupcharred)/shaggymane",
+        "side": "Server",
+        "dependsOn": [ { "modId": "mycodiversity", "invert": true } ]
+    },
+    {
+        "file": "expandedfoods:itemtypes/food/mixing/breadedmushroom.json",
+        "op": "remove",
+        "path": "/texturesByType/@*-(syruppartbaked|syrup|syrupcharred)/shrimpmushroom",
+        "side": "Server",
+        "dependsOn": [ { "modId": "mycodiversity", "invert": true } ]
+    },
+    {
+        "file": "expandedfoods:itemtypes/food/mixing/breadedmushroom.json",
+        "op": "remove",
+        "path": "/texturesByType/@*-(syruppartbaked|syrup|syrupcharred)/slipperyjack",
+        "side": "Server",
+        "dependsOn": [ { "modId": "mycodiversity", "invert": true } ]
+    },
+    {
+        "file": "expandedfoods:itemtypes/food/mixing/breadedmushroom.json",
+        "op": "remove",
+        "path": "/texturesByType/@*-(syruppartbaked|syrup|syrupcharred)/stinkhorn",
+        "side": "Server",
+        "dependsOn": [ { "modId": "mycodiversity", "invert": true } ]
+    },
+    {
+        "file": "expandedfoods:itemtypes/food/mixing/breadedmushroom.json",
+        "op": "remove",
+        "path": "/texturesByType/@*-(syruppartbaked|syrup|syrupcharred)/sulfurtuft",
+        "side": "Server",
+        "dependsOn": [ { "modId": "mycodiversity", "invert": true } ]
+    },
+    {
+        "file": "expandedfoods:itemtypes/food/mixing/breadedmushroom.json",
+        "op": "remove",
+        "path": "/texturesByType/@*-(syruppartbaked|syrup|syrupcharred)/winterchanterelle",
+        "side": "Server",
+        "dependsOn": [ { "modId": "mycodiversity", "invert": true } ]
+    },
+    {
+        "file": "expandedfoods:itemtypes/food/mixing/breadedmushroom.json",
+        "op": "remove",
+        "path": "/texturesByType/@*-(syruppartbaked|syrup|syrupcharred)/yellowramaria",
+        "side": "Server",
+        "dependsOn": [ { "modId": "mycodiversity", "invert": true } ]
+    },
+    {
+        "file": "expandedfoods:itemtypes/food/mixing/breadedmushroom.json",
+        "op": "remove",
+        "path": "/texturesByType/@*-(syruppartbaked|syrup|syrupcharred)/yellowstainer",
+        "side": "Server",
+        "dependsOn": [ { "modId": "mycodiversity", "invert": true } ]
+    },
+    {
+        "file": "expandedfoods:itemtypes/food/mixing/breadedmushroom.json",
+        "op": "remove",
+        "path": "/texturesByType/*/aniseedfunnel",
+        "side": "Server",
+        "dependsOn": [ { "modId": "mycodiversity", "invert": true } ]
+    },
+    {
+        "file": "expandedfoods:itemtypes/food/mixing/breadedmushroom.json",
+        "op": "remove",
+        "path": "/texturesByType/*/aspenbolete",
+        "side": "Server",
+        "dependsOn": [ { "modId": "mycodiversity", "invert": true } ]
+    },
+    {
+        "file": "expandedfoods:itemtypes/food/mixing/breadedmushroom.json",
+        "op": "remove",
+        "path": "/texturesByType/*/birchbolete",
+        "side": "Server",
+        "dependsOn": [ { "modId": "mycodiversity", "invert": true } ]
+    },
+    {
+        "file": "expandedfoods:itemtypes/food/mixing/breadedmushroom.json",
+        "op": "remove",
+        "path": "/texturesByType/*/blewit",
+        "side": "Server",
+        "dependsOn": [ { "modId": "mycodiversity", "invert": true } ]
+    },
+    {
+        "file": "expandedfoods:itemtypes/food/mixing/breadedmushroom.json",
+        "op": "remove",
+        "path": "/texturesByType/*/bluechanterelle",
+        "side": "Server",
+        "dependsOn": [ { "modId": "mycodiversity", "invert": true } ]
+    },
+    {
+        "file": "expandedfoods:itemtypes/food/mixing/breadedmushroom.json",
+        "op": "remove",
+        "path": "/texturesByType/*/candycap",
+        "side": "Server",
+        "dependsOn": [ { "modId": "mycodiversity", "invert": true } ]
+    },
+    {
+        "file": "expandedfoods:itemtypes/food/mixing/breadedmushroom.json",
+        "op": "remove",
+        "path": "/texturesByType/*/coccora",
+        "side": "Server",
+        "dependsOn": [ { "modId": "mycodiversity", "invert": true } ]
+    },
+    {
+        "file": "expandedfoods:itemtypes/food/mixing/breadedmushroom.json",
+        "op": "remove",
+        "path": "/texturesByType/*/desertshaggymane",
+        "side": "Server",
+        "dependsOn": [ { "modId": "mycodiversity", "invert": true } ]
+    },
+    {
+        "file": "expandedfoods:itemtypes/food/mixing/breadedmushroom.json",
+        "op": "remove",
+        "path": "/texturesByType/*/destroyingangel",
+        "side": "Server",
+        "dependsOn": [ { "modId": "mycodiversity", "invert": true } ]
+    },
+    {
+        "file": "expandedfoods:itemtypes/food/mixing/breadedmushroom.json",
+        "op": "remove",
+        "path": "/texturesByType/*/dyerspolypore",
+        "side": "Server",
+        "dependsOn": [ { "modId": "mycodiversity", "invert": true } ]
+    },
+    {
+        "file": "expandedfoods:itemtypes/food/mixing/breadedmushroom.json",
+        "op": "remove",
+        "path": "/texturesByType/*/falseearthstar",
+        "side": "Server",
+        "dependsOn": [ { "modId": "mycodiversity", "invert": true } ]
+    },
+    {
+        "file": "expandedfoods:itemtypes/food/mixing/breadedmushroom.json",
+        "op": "remove",
+        "path": "/texturesByType/*/flattoppedclubcoral",
+        "side": "Server",
+        "dependsOn": [ { "modId": "mycodiversity", "invert": true } ]
+    },
+    {
+        "file": "expandedfoods:itemtypes/food/mixing/breadedmushroom.json",
+        "op": "remove",
+        "path": "/texturesByType/*/friedchickenmushroom",
+        "side": "Server",
+        "dependsOn": [ { "modId": "mycodiversity", "invert": true } ]
+    },
+    {
+        "file": "expandedfoods:itemtypes/food/mixing/breadedmushroom.json",
+        "op": "remove",
+        "path": "/texturesByType/*/greenearthtongue",
+        "side": "Server",
+        "dependsOn": [ { "modId": "mycodiversity", "invert": true } ]
+    },
+    {
+        "file": "expandedfoods:itemtypes/food/mixing/breadedmushroom.json",
+        "op": "remove",
+        "path": "/texturesByType/*/hawkwing",
+        "side": "Server",
+        "dependsOn": [ { "modId": "mycodiversity", "invert": true } ]
+    },
+    {
+        "file": "expandedfoods:itemtypes/food/mixing/breadedmushroom.json",
+        "op": "remove",
+        "path": "/texturesByType/*/hedgehogmushroom",
+        "side": "Server",
+        "dependsOn": [ { "modId": "mycodiversity", "invert": true } ]
+    },
+    {
+        "file": "expandedfoods:itemtypes/food/mixing/breadedmushroom.json",
+        "op": "remove",
+        "path": "/texturesByType/*/honeymushroom",
+        "side": "Server",
+        "dependsOn": [ { "modId": "mycodiversity", "invert": true } ]
+    },
+    {
+        "file": "expandedfoods:itemtypes/food/mixing/breadedmushroom.json",
+        "op": "remove",
+        "path": "/texturesByType/*/matsutake",
+        "side": "Server",
+        "dependsOn": [ { "modId": "mycodiversity", "invert": true } ]
+    },
+    {
+        "file": "expandedfoods:itemtypes/food/mixing/breadedmushroom.json",
+        "op": "remove",
+        "path": "/texturesByType/*/northernreddye",
+        "side": "Server",
+        "dependsOn": [ { "modId": "mycodiversity", "invert": true } ]
+    },
+    {
+        "file": "expandedfoods:itemtypes/food/mixing/breadedmushroom.json",
+        "op": "remove",
+        "path": "/texturesByType/*/parasol",
+        "side": "Server",
+        "dependsOn": [ { "modId": "mycodiversity", "invert": true } ]
+    },
+    {
+        "file": "expandedfoods:itemtypes/food/mixing/breadedmushroom.json",
+        "op": "remove",
+        "path": "/texturesByType/*/purplefairyclub",
+        "side": "Server",
+        "dependsOn": [ { "modId": "mycodiversity", "invert": true } ]
+    },
+    {
+        "file": "expandedfoods:itemtypes/food/mixing/breadedmushroom.json",
+        "op": "remove",
+        "path": "/texturesByType/*/queenbolete",
+        "side": "Server",
+        "dependsOn": [ { "modId": "mycodiversity", "invert": true } ]
+    },
+    {
+        "file": "expandedfoods:itemtypes/food/mixing/breadedmushroom.json",
+        "op": "remove",
+        "path": "/texturesByType/*/questionablestropharia",
+        "side": "Server",
+        "dependsOn": [ { "modId": "mycodiversity", "invert": true } ]
+    },
+    {
+        "file": "expandedfoods:itemtypes/food/mixing/breadedmushroom.json",
+        "op": "remove",
+        "path": "/texturesByType/*/redramaria",
+        "side": "Server",
+        "dependsOn": [ { "modId": "mycodiversity", "invert": true } ]
+    },
+    {
+        "file": "expandedfoods:itemtypes/food/mixing/breadedmushroom.json",
+        "op": "remove",
+        "path": "/texturesByType/*/shaggymane",
+        "side": "Server",
+        "dependsOn": [ { "modId": "mycodiversity", "invert": true } ]
+    },
+    {
+        "file": "expandedfoods:itemtypes/food/mixing/breadedmushroom.json",
+        "op": "remove",
+        "path": "/texturesByType/*/shrimpmushroom",
+        "side": "Server",
+        "dependsOn": [ { "modId": "mycodiversity", "invert": true } ]
+    },
+    {
+        "file": "expandedfoods:itemtypes/food/mixing/breadedmushroom.json",
+        "op": "remove",
+        "path": "/texturesByType/*/slipperyjack",
+        "side": "Server",
+        "dependsOn": [ { "modId": "mycodiversity", "invert": true } ]
+    },
+    {
+        "file": "expandedfoods:itemtypes/food/mixing/breadedmushroom.json",
+        "op": "remove",
+        "path": "/texturesByType/*/stinkhorn",
+        "side": "Server",
+        "dependsOn": [ { "modId": "mycodiversity", "invert": true } ]
+    },
+    {
+        "file": "expandedfoods:itemtypes/food/mixing/breadedmushroom.json",
+        "op": "remove",
+        "path": "/texturesByType/*/sulfurtuft",
+        "side": "Server",
+        "dependsOn": [ { "modId": "mycodiversity", "invert": true } ]
+    },
+    {
+        "file": "expandedfoods:itemtypes/food/mixing/breadedmushroom.json",
+        "op": "remove",
+        "path": "/texturesByType/*/winterchanterelle",
+        "side": "Server",
+        "dependsOn": [ { "modId": "mycodiversity", "invert": true } ]
+    },
+    {
+        "file": "expandedfoods:itemtypes/food/mixing/breadedmushroom.json",
+        "op": "remove",
+        "path": "/texturesByType/*/yellowramaria",
+        "side": "Server",
+        "dependsOn": [ { "modId": "mycodiversity", "invert": true } ]
+    },
+    {
+        "file": "expandedfoods:itemtypes/food/mixing/breadedmushroom.json",
+        "op": "remove",
+        "path": "/texturesByType/*/yellowstainer",
+        "side": "Server",
+        "dependsOn": [ { "modId": "mycodiversity", "invert": true } ]
+    }
+]

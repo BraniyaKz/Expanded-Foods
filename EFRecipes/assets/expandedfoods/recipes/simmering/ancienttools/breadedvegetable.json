@@ -1,86 +1,92 @@
 ﻿[
-{
-	"Ingredients": [
-		{ "type": "item", "code": "expandedfoods:foodoilportion-*", "quantity": 10 },
-		{ "type": "item", "code": "expandedfoods:breadedvegetable-birch-*-raw", "quantity": 1, "name": "vegetable" }
-	],
-	"Simmering": {
-		"meltingPoint": 150,
-		"meltingDuration": 100,
-		"smeltedRatio": 1,
-		"smeltingType": "bake",
-		"smeltedStack": { "type": "item", "code": "expandedfoods:breadedvegetable-birch-{vegetable}-cooked" },
-		"requiresContainer": false
-	}
-},
-{
-	"Ingredients": [
-		{ "type": "item", "code": "expandedfoods:lard", "quantity": 10 },
-		{ "type": "item", "code": "expandedfoods:breadedvegetable-birch-*-raw", "quantity": 1, "name": "vegetable" }
-	],
-	"Simmering": {
-		"meltingPoint": 150,
-		"meltingDuration": 100,
-		"smeltedRatio": 1,
-		"smeltingType": "bake",
-		"smeltedStack": { "type": "item", "code": "expandedfoods:breadedvegetable-birch-{vegetable}-cooked" },
-		"requiresContainer": false
-	}
-},
-{
-  "Ingredients": [
-    { "type": "item", "code": "expandedfoods:foodoilportion-*", "quantity": 10 },
-    { "type": "item", "code": "expandedfoods:breadedvegetable-pine-*-raw", "quantity": 1, "name": "vegetable" }
-  ],
-  "Simmering": {
-    "meltingPoint": 150,
-    "meltingDuration": 100,
-    "smeltedRatio": 1,
-    "smeltingType": "bake",
-    "smeltedStack": { "type": "item",  "code": "expandedfoods:breadedvegetable-pine-{vegetable}-cooked" },
-    "requiresContainer": false
+  {
+    "enabled": false,
+	  "Ingredients": [
+		  { "type": "item", "code": "expandedfoods:foodoilportion-*", "quantity": 10 },
+		  { "type": "item", "code": "expandedfoods:breadedvegetable-birch-*-raw", "name": "vegetable", "quantity": 1 }
+	  ],
+	  "Simmering": {
+		  "meltingPoint": 150,
+		  "meltingDuration": 100,
+		  "smeltedRatio": 1,
+		  "smeltingType": "bake",
+		  "smeltedStack": { "type": "item", "code": "expandedfoods:breadedvegetable-birch-{vegetable}-cooked" },
+		  "requiresContainer": false
+	  }
+  },
+  {
+    "enabled": false,
+	  "Ingredients": [
+		  { "type": "item", "code": "expandedfoods:lard", "quantity": 10 },
+		  { "type": "item", "code": "expandedfoods:breadedvegetable-birch-*-raw", "name": "vegetable", "quantity": 1 }
+	  ],
+	  "Simmering": {
+		  "meltingPoint": 150,
+		  "meltingDuration": 100,
+		  "smeltedRatio": 1,
+		  "smeltingType": "bake",
+		  "smeltedStack": { "type": "item", "code": "expandedfoods:breadedvegetable-birch-{vegetable}-cooked" },
+		  "requiresContainer": false
+	  }
+  },
+  {
+    "enabled": false,
+    "Ingredients": [
+      { "type": "item", "code": "expandedfoods:foodoilportion-*", "quantity": 10 },
+      { "type": "item", "code": "expandedfoods:breadedvegetable-pine-*-raw", "name": "vegetable", "quantity": 1 }
+    ],
+    "Simmering": {
+      "meltingPoint": 150,
+      "meltingDuration": 100,
+      "smeltedRatio": 1,
+      "smeltingType": "bake",
+      "smeltedStack": { "type": "item",  "code": "expandedfoods:breadedvegetable-pine-{vegetable}-cooked" },
+      "requiresContainer": false
+    }
+  },
+  {
+    "enabled": false,
+    "Ingredients": [
+      { "type": "item", "code": "expandedfoods:lard", "quantity": 10 },
+      { "type": "item", "code": "expandedfoods:breadedvegetable-pine-*-raw", "name": "vegetable", "quantity": 1 }
+    ],
+    "Simmering": {
+      "meltingPoint": 150,
+      "meltingDuration": 100,
+      "smeltedRatio": 1,
+      "smeltingType": "bake",
+      "smeltedStack": { "type": "item", "code": "expandedfoods:breadedvegetable-pine-{vegetable}-cooked" },
+      "requiresContainer": false
+    }
+  },
+  {
+    "enabled": false,
+    "Ingredients": [
+      { "type": "item", "code": "expandedfoods:foodoilportion-*", "quantity": 10 },
+      { "type": "item", "code": "expandedfoods:breadedvegetable-maple-*-raw", "name": "vegetable", "quantity": 1 }
+    ],
+    "Simmering": {
+      "meltingPoint": 150,
+      "meltingDuration": 100,
+      "smeltedRatio": 1,
+      "smeltingType": "bake",
+      "smeltedStack": { "type": "item", "code": "expandedfoods:breadedvegetable-maple-{vegetable}-cooked" },
+      "requiresContainer": false
+    }
+  },
+  {
+    "enabled": false,
+    "Ingredients": [
+      { "type": "item", "code": "expandedfoods:lard", "quantity": 10 },
+      { "type": "item", "code": "expandedfoods:breadedvegetable-maple-*-raw", "name": "vegetable", "quantity": 1 }
+    ],
+    "Simmering": {
+      "meltingPoint": 150,
+      "meltingDuration": 100,
+      "smeltedRatio": 1,
+      "smeltingType": "bake",
+      "smeltedStack": { "type": "item", "code": "expandedfoods:breadedvegetable-maple-{vegetable}-cooked" },
+      "requiresContainer": false
+    }
   }
-},
-{
-  "Ingredients": [
-    { "type": "item", "code": "expandedfoods:lard", "quantity": 10 },
-    { "type": "item", "code": "expandedfoods:breadedvegetable-pine-*-raw", "quantity": 1, "name": "vegetable" }
-  ],
-  "Simmering": {
-    "meltingPoint": 150,
-    "meltingDuration": 100,
-    "smeltedRatio": 1,
-    "smeltingType": "bake",
-    "smeltedStack": { "type": "item", "code": "expandedfoods:breadedvegetable-pine-{vegetable}-cooked" },
-    "requiresContainer": false
-  }
-},
-{
-  "Ingredients": [
-    { "type": "item", "code": "expandedfoods:foodoilportion-*", "quantity": 10 },
-    { "type": "item", "code": "expandedfoods:breadedvegetable-maple-*-raw", "quantity": 1, "name": "vegetable" }
-  ],
-  "Simmering": {
-    "meltingPoint": 150,
-    "meltingDuration": 100,
-    "smeltedRatio": 1,
-    "smeltingType": "bake",
-    "smeltedStack": { "type": "item", "code": "expandedfoods:breadedvegetable-maple-{vegetable}-cooked" },
-    "requiresContainer": false
-  }
-},
-{
-  "Ingredients": [
-    { "type": "item", "code": "expandedfoods:lard", "quantity": 10 },
-    { "type": "item", "code": "expandedfoods:breadedvegetable-maple-*-raw", "quantity": 1, "name": "vegetable" }
-  ],
-  "Simmering": {
-    "meltingPoint": 150,
-    "meltingDuration": 100,
-    "smeltedRatio": 1,
-    "smeltingType": "bake",
-    "smeltedStack": { "type": "item", "code": "expandedfoods:breadedvegetable-maple-{vegetable}-cooked" },
-    "requiresContainer": false
-  }
-}
 ]

@@ -1,15 +1,16 @@
 ﻿[
 	{
+		"enabled": false,
 		"Ingredients": [
 			{ "type": "item", "code": "game:waterportion", "quantity": 50 },
-			{ "type": "item", "code": "ancienttools:saltedmeat-*-raw", "quantity": 1, "name": "meat" }
+			{ "type": "item", "code": "ancienttools:saltedmeat-*-raw", "name": "meat", "quantity": 1 }
 		],
 		"Simmering": {
 			"meltingPoint": 200,
 			"meltingDuration": 110,
 			"smeltedRatio": 1,
 			"smeltingType": "bake",
-			"smeltedStack": { "type": "item", "code": "ancienttools:saltedmeat-{meat}-cooked", "quantity":  1 },
+			"smeltedStack": { "type": "item", "code": "ancienttools:saltedmeat-{meat}-cooked", "quantity": 1 },
 			"requiresContainer": false
 		}
 	}

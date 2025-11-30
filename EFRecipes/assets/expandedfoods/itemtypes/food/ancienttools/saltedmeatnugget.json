@@ -1,4 +1,5 @@
 ﻿{
+	"enabled": false,
 	"code": "saltedmeatnugget",
 	"maxstacksize": 64,
 	"attributes": {
@@ -92,68 +93,72 @@
     	}
 	},
 	"variantgroups": [
-		{ "code": "meat", "states": ["bushmeat", "poultry", "redmeat"]},	
-		{ "code": "type", "states": ["smashed", "raw", "cookedpartbaked", "cooked", "cookedcharred", "tenderpartbaked", "tender", "tendercharred" ] }
+		{ "code": "meat", "states": [ "bushmeat", "poultry", "redmeat" ] },	
+		{ "code": "type", "states": [ "smashed", "raw", "cookedpartbaked", "cooked", "cookedcharred", "tenderpartbaked", "tender", "tendercharred" ] }
 	],
 	"shapebytype":	{
-		"saltedmeatnugget-*-smashed": {"base": "item/food/meat/{meat}-smash"},
-		"saltedmeatnugget-*-raw": {"base": "item/food/meat/{meat}-nugget"},
-		"saltedmeatnugget-*-tenderpartbaked": {"base": "item/food/meat/{meat}-tender"},
-		"saltedmeatnugget-*-tender": {"base": "item/food/meat/{meat}-tender"},
-		"saltedmeatnugget-*-tendercharred": {"base": "item/food/meat/{meat}-tender"},
-		"saltedmeatnugget-*-cookedpartbaked":   {"base": "item/food/meat/{meat}-cooked"},
-		"saltedmeatnugget-*-cooked":   {"base": "item/food/meat/{meat}-cooked"},
-		"saltedmeatnugget-*-cookedcharred":   {"base": "item/food/meat/{meat}-cooked"}
+		"saltedmeatnugget-*-smashed": { "base": "expandedfoods:item/food/meat/{meat}-smash" },
+		"saltedmeatnugget-*-raw": { "base": "expandedfoods:item/food/meat/{meat}-nugget" },
+		"saltedmeatnugget-*-tenderpartbaked": { "base": "expandedfoods:item/food/meat/{meat}-tender" },
+		"saltedmeatnugget-*-tender": { "base": "expandedfoods:item/food/meat/{meat}-tender" },
+		"saltedmeatnugget-*-tendercharred": { "base": "expandedfoods:item/food/meat/{meat}-tender" },
+		"saltedmeatnugget-*-cookedpartbaked":   { "base": "expandedfoods:item/food/meat/{meat}-cooked" },
+		"saltedmeatnugget-*-cooked":   { "base": "expandedfoods:item/food/meat/{meat}-cooked" },
+		"saltedmeatnugget-*-cookedcharred":   { "base": "expandedfoods:item/food/meat/{meat}-cooked" }
 	},
 	"texturesByType": {
 		"@*-(tenderpartbaked|cookedpartbaked)": {
-			"cooked": {"base": "game:item/food/meat/saltedpartbaked" }
+			"cooked": { "base": "game:item/food/meat/saltedpartbaked" }
 		},
 		"@*-(tendercharred|cookedcharred)": {
-			"cooked": {"base": "game:item/food/meat/saltedcharred" }
+			"cooked": { "base": "game:item/food/meat/saltedcharred" }
 		},
 		"*": {
-			"cooked": {"base": "ancienttools:item/food/saltedmeat/saltedcooked" },
-			"meat": {"base": "ancienttools:item/food/saltedmeat/salted" },
-			"raw": {"base": "ancienttools:item/food/saltedmeat/salted" }
+			"cooked": { "base": "ancienttools:item/food/saltedmeat/saltedcooked" },
+			"meat": { "base": "ancienttools:item/food/saltedmeat/salted" },
+			"raw": { "base": "ancienttools:item/food/saltedmeat/salted" }
 		}
 	},
-	"creativeinventory": { "general": ["*"], "items": ["*"], "expandedfoods": ["*"] },
+	"creativeinventory": { "general": [ "*" ], "items": [ "*" ], "expandedfoods": [ "*" ] },
 	"nutritionPropsByType": {
 		"@*-bushmeat-(cookedpartbaked|tenderpartbaked)": { "satiety": 45, "foodcategory": "Protein" },
 		"@*-poultry-(cookedpartbaked|tenderpartbaked)": { "satiety": 70, "foodcategory": "Protein" },
 		"@*-redmeat-(cookedpartbaked|tenderpartbaked)": { "satiety": 105, "foodcategory": "Protein" },
-
 		"@*-bushmeat-(cooked|tender)": { "satiety": 65, "foodcategory": "Protein" },
 		"@*-poultry-(cooked|tender)": { "satiety": 110, "foodcategory": "Protein" },
 		"@*-redmeat-(cooked|tender)": { "satiety": 155, "foodcategory": "Protein" },
-
 		"@*-bushmeat-(cookedcharred|tendercharred)": { "satiety": 55, "foodcategory": "Protein" },
 		"@*-poultry-(cookedcharred|tendercharred)": { "satiety": 95, "foodcategory": "Protein" },
 		"@*-redmeat-(cookedcharred|tendercharred)": { "satiety": 130, "foodcategory": "Protein" }
 	},
 	"transitionablePropsByType": {
-		"@*-(raw|smashed)": [{
-			"type": "Perish",
-			"freshHours": { "avg": 144 },
-			"transitionHours": { "avg": 96 },
-			"transitionedStack": { "type": "item", "code": "game:rot" },
-			"transitionRatio": 1
-		}],
-		"@*-(tenderpartbaked|tender|cookedpartbaked|cooked)": [{
-			"type": "Perish",
-			"freshHours": { "avg": 288 },
-			"transitionHours": { "avg": 192 },
-			"transitionedStack": { "type": "item", "code": "game:rot" },
-			"transitionRatio": 1
-		}],
-		"@*-(tendercharred|cookedcharred)": [{
-			"type": "Perish",
-			"freshHours": { "avg": 432 },
-			"transitionHours": { "avg": 192 },
-			"transitionedStack": { "type": "item", "code": "game:rot" },
-			"transitionRatio": 1
-		}]
+		"@*-(raw|smashed)": [
+			{
+				"type": "Perish",
+				"freshHours": { "avg": 144 },
+				"transitionHours": { "avg": 96 },
+				"transitionedStack": { "type": "item", "code": "game:rot" },
+				"transitionRatio": 1
+			}
+		],
+		"@*-(tenderpartbaked|tender|cookedpartbaked|cooked)": [
+			{
+				"type": "Perish",
+				"freshHours": { "avg": 288 },
+				"transitionHours": { "avg": 192 },
+				"transitionedStack": { "type": "item", "code": "game:rot" },
+				"transitionRatio": 1
+			}
+		],
+		"@*-(tendercharred|cookedcharred)": [
+			{
+				"type": "Perish",
+				"freshHours": { "avg": 432 },
+				"transitionHours": { "avg": 192 },
+				"transitionedStack": { "type": "item", "code": "game:rot" },
+				"transitionRatio": 1
+			}
+		]
 	},
 	"materialDensity": 600,
 	"guiTransformByType": {
@@ -200,7 +205,7 @@
 			"meltingDuration": 30,
 			"smeltedRatio": 1,
 			"smeltingType": "cook",
-			"smeltedStack": { "type": "item", "code": "saltedmeatnugget-{meat}-cookedcharred" },
+			"smeltedStack": { "type": "item", "code": "expandedfoods:saltedmeatnugget-{meat}-cookedcharred" },
 			"requiresContainer": false
 		},
 		"@*-(smashed|tenderpartbaked|tender)": {
@@ -208,7 +213,7 @@
 			"meltingDuration": 30,
 			"smeltedRatio": 1,
 			"smeltingType": "cook",
-			"smeltedStack": { "type": "item", "code": "saltedmeatnugget-{meat}-tendercharred" },
+			"smeltedStack": { "type": "item", "code": "expandedfoods:saltedmeatnugget-{meat}-tendercharred" },
 			"requiresContainer": false
 		}
 	}

@@ -1,18 +1,16 @@
 ﻿[
- {
-    "file": "expandedfoods:recipes/kneading/dumpling.json",
-    "op": "addeach", 
-    "path": "/1/ingredients/1/inputs/-", 
-    "value": [{ "type": "item", "code": "expandedfoods:saltedmeatnugget-*-raw", "quantity": 1}],
-    "side": "server",
-    "dependsOn": [{ "modid": "ancienttools" }]
- },
- {
-    "file": "expandedfoods:recipes/kneading/dumpling.json",
-    "op": "addeach", 
-    "path": "/3/ingredients/1/inputs/-", 
-    "value": [{ "type": "item", "code": "expandedfoods:saltedmeatnugget-*-raw", "quantity": 1}],
-    "side": "server",
-    "dependsOn": [{ "modid": "ancienttools" }]
- }
+   {
+      "file": "expandedfoods:recipes/kneading/dumpling.json",
+      "op": "remove",
+      "path": "/1/ingredients/1/inputs/12",
+      "side": "Server",
+      "dependsOn": [ { "modId": "ancienttools", "invert": true } ]
+   },
+   {
+      "file": "expandedfoods:recipes/kneading/dumpling.json",
+      "op": "remove",
+      "path": "/3/ingredients/1/inputs/12",
+      "side": "Server",
+      "dependsOn": [ { "modId": "ancienttools", "invert": true } ]
+   }
 ]

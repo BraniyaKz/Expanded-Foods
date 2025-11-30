@@ -1,186 +1,186 @@
 ﻿[
   {
     "file": "expandedfoods:recipes/simmering/ancienttools/saltedmeat.json",
-    "op": "addmerge", 
-    "path": "/0/enabled", 
-    "value": "false",
-    "side": "server",
-    "dependsOn": [{ "modid": "ancienttools", "invert": true }]
+    "op": "replace",
+    "path": "/0/enabled",
+    "value": true,
+    "side": "Server",
+    "dependsOn": [ { "modId": "ancienttools" } ]
   },
   {
     "file": "expandedfoods:recipes/simmering/ancienttools/saltedmeatnugget.json",
-    "op": "addmerge", 
-    "path": "/0/enabled", 
-    "value": "false",
-    "side": "server",
-    "dependsOn": [{ "modid": "ancienttools", "invert": true }]
+    "op": "replace",
+    "path": "/0/enabled",
+    "value": true,
+    "side": "Server",
+    "dependsOn": [ { "modId": "ancienttools" } ]
   },
   {
     "file": "expandedfoods:recipes/simmering/ancienttools/saltedmeatnugget.json",
-    "op": "addmerge", 
-    "path": "/1/enabled", 
-    "value": "false",
-    "side": "server",
-    "dependsOn": [{ "modid": "ancienttools", "invert": true }]
+    "op": "replace",
+    "path": "/1/enabled",
+    "value": true,
+    "side": "Server",
+    "dependsOn": [ { "modId": "ancienttools" } ]
   },
   {
     "file": "expandedfoods:recipes/simmering/ancienttools/saltedmeatnugget.json",
-    "op": "addmerge", 
-    "path": "/2/enabled", 
-    "value": "false",
-    "side": "server",
-    "dependsOn": [{ "modid": "ancienttools", "invert": true }]
+    "op": "replace",
+    "path": "/2/enabled",
+    "value": true,
+    "side": "Server",
+    "dependsOn": [ { "modId": "ancienttools" } ]
   },
   {
     "file": "expandedfoods:recipes/simmering/ancienttools/saltedmeatnugget.json",
-    "op": "addmerge", 
-    "path": "/3/enabled", 
-    "value": "false",
-    "side": "server",
-    "dependsOn": [{ "modid": "ancienttools", "invert": true }]
+    "op": "replace",
+    "path": "/3/enabled",
+    "value": true,
+    "side": "Server",
+    "dependsOn": [ { "modId": "ancienttools" } ]
   },
   {
     "file": "expandedfoods:recipes/simmering/ancienttools/breadedball.json",
-    "op": "addmerge", 
-    "path": "/0/enabled", 
-    "value": "false",
-    "side": "server",
-    "dependsOn": [{ "modid": "ancienttools", "invert": true }]
+    "op": "replace",
+    "path": "/0/enabled",
+    "value": true,
+    "side": "Server",
+    "dependsOn": [ { "modId": "ancienttools" } ]
   },
   {
     "file": "expandedfoods:recipes/simmering/ancienttools/breadedball.json",
-    "op": "addmerge", 
-    "path": "/1/enabled", 
-    "value": "false",
-    "side": "server",
-    "dependsOn": [{ "modid": "ancienttools", "invert": true }]
+    "op": "replace",
+    "path": "/1/enabled",
+    "value": true,
+    "side": "Server",
+    "dependsOn": [ { "modId": "ancienttools" } ]
   },
   {
     "file": "expandedfoods:recipes/simmering/ancienttools/breadedmeatnugget.json",
-    "op": "addmerge", 
-    "path": "/0/enabled", 
-    "value": "false",
-    "side": "server",
-    "dependsOn": [{ "modid": "ancienttools", "invert": true }]
+    "op": "replace",
+    "path": "/0/enabled",
+    "value": true,
+    "side": "Server",
+    "dependsOn": [ { "modId": "ancienttools" } ]
   },
   {
     "file": "expandedfoods:recipes/simmering/ancienttools/breadedmeatnugget.json",
-    "op": "addmerge", 
-    "path": "/1/enabled", 
-    "value": "false",
-    "side": "server",
-    "dependsOn": [{ "modid": "ancienttools", "invert": true }]
+    "op": "replace",
+    "path": "/1/enabled",
+    "value": true,
+    "side": "Server",
+    "dependsOn": [ { "modId": "ancienttools" } ]
   },
   {
     "file": "expandedfoods:recipes/simmering/ancienttools/breadedmeatnugget.json",
-    "op": "addmerge", 
-    "path": "/2/enabled", 
-    "value": "false",
-    "side": "server",
-    "dependsOn": [{ "modid": "ancienttools", "invert": true }]
+    "op": "replace",
+    "path": "/2/enabled",
+    "value": true,
+    "side": "Server",
+    "dependsOn": [ { "modId": "ancienttools" } ]
   },
   {
     "file": "expandedfoods:recipes/simmering/ancienttools/breadedmeatnugget.json",
-    "op": "addmerge", 
-    "path": "/3/enabled", 
-    "value": "false",
-    "side": "server",
-    "dependsOn": [{ "modid": "ancienttools", "invert": true }]
+    "op": "replace",
+    "path": "/3/enabled",
+    "value": true,
+    "side": "Server",
+    "dependsOn": [ { "modId": "ancienttools" } ]
   },
   {
     "file": "expandedfoods:recipes/simmering/ancienttools/breadedmeatnugget.json",
-    "op": "addmerge", 
-    "path": "/4/enabled", 
-    "value": "false",
-    "side": "server",
-    "dependsOn": [{ "modid": "ancienttools", "invert": true }]
+    "op": "replace",
+    "path": "/4/enabled",
+    "value": true,
+    "side": "Server",
+    "dependsOn": [ { "modId": "ancienttools" } ]
   },
   {
     "file": "expandedfoods:recipes/simmering/ancienttools/breadedmeatnugget.json",
-    "op": "addmerge", 
-    "path": "/5/enabled", 
-    "value": "false",
-    "side": "server",
-    "dependsOn": [{ "modid": "ancienttools", "invert": true }]
+    "op": "replace",
+    "path": "/5/enabled",
+    "value": true,
+    "side": "Server",
+    "dependsOn": [ { "modId": "ancienttools" } ]
   },
   {
     "file": "expandedfoods:recipes/simmering/ancienttools/breadedmushroom.json",
-    "op": "addmerge", 
-    "path": "/0/enabled", 
-    "value": "false",
-    "side": "server",
-    "dependsOn": [{ "modid": "ancienttools", "invert": true }]
+    "op": "replace",
+    "path": "/0/enabled",
+    "value": true,
+    "side": "Server",
+    "dependsOn": [ { "modId": "ancienttools" } ]
   },
   {
     "file": "expandedfoods:recipes/simmering/ancienttools/breadedmushroom.json",
-    "op": "addmerge", 
-    "path": "/1/enabled", 
-    "value": "false",
-    "side": "server",
-    "dependsOn": [{ "modid": "ancienttools", "invert": true }]
+    "op": "replace",
+    "path": "/1/enabled",
+    "value": true,
+    "side": "Server",
+    "dependsOn": [ { "modId": "ancienttools" } ]
   },
   {
     "file": "expandedfoods:recipes/simmering/ancienttools/breadedvegetable.json",
-    "op": "addmerge", 
-    "path": "/0/enabled", 
-    "value": "false",
-    "side": "server",
-    "dependsOn": [{ "modid": "ancienttools", "invert": true }]
+    "op": "replace",
+    "path": "/0/enabled",
+    "value": true,
+    "side": "Server",
+    "dependsOn": [ { "modId": "ancienttools" } ]
   },
   {
     "file": "expandedfoods:recipes/simmering/ancienttools/breadedvegetable.json",
-    "op": "addmerge", 
-    "path": "/1/enabled", 
-    "value": "false",
-    "side": "server",
-    "dependsOn": [{ "modid": "ancienttools", "invert": true }]
+    "op": "replace",
+    "path": "/1/enabled",
+    "value": true,
+    "side": "Server",
+    "dependsOn": [ { "modId": "ancienttools" } ]
   },
   {
     "file": "expandedfoods:recipes/simmering/ancienttools/breadedvegetable.json",
-    "op": "addmerge", 
-    "path": "/2/enabled", 
-    "value": "false",
-    "side": "server",
-    "dependsOn": [{ "modid": "ancienttools", "invert": true }]
+    "op": "replace",
+    "path": "/2/enabled",
+    "value": true,
+    "side": "Server",
+    "dependsOn": [ { "modId": "ancienttools" } ]
   },
   {
     "file": "expandedfoods:recipes/simmering/ancienttools/breadedvegetable.json",
-    "op": "addmerge", 
-    "path": "/3/enabled", 
-    "value": "false",
-    "side": "server",
-    "dependsOn": [{ "modid": "ancienttools", "invert": true }]
+    "op": "replace",
+    "path": "/3/enabled",
+    "value": true,
+    "side": "Server",
+    "dependsOn": [ { "modId": "ancienttools" } ]
   },
   {
     "file": "expandedfoods:recipes/simmering/ancienttools/breadedvegetable.json",
-    "op": "addmerge", 
-    "path": "/4/enabled", 
-    "value": "false",
-    "side": "server",
-    "dependsOn": [{ "modid": "ancienttools", "invert": true }]
+    "op": "replace",
+    "path": "/4/enabled",
+    "value": true,
+    "side": "Server",
+    "dependsOn": [ { "modId": "ancienttools" } ]
   },
   {
     "file": "expandedfoods:recipes/simmering/ancienttools/breadedvegetable.json",
-    "op": "addmerge", 
-    "path": "/5/enabled", 
-    "value": "false",
-    "side": "server",
-    "dependsOn": [{ "modid": "ancienttools", "invert": true }]
+    "op": "replace",
+    "path": "/5/enabled",
+    "value": true,
+    "side": "Server",
+    "dependsOn": [ { "modId": "ancienttools" } ]
   },
   {
     "file": "expandedfoods:recipes/simmering/ancienttools/stuffedpepper.json",
-    "op": "addmerge", 
-    "path": "/0/enabled", 
-    "value": "false",
-    "side": "server",
-    "dependsOn": [{ "modid": "ancienttools", "invert": true }]
+    "op": "replace",
+    "path": "/0/enabled",
+    "value": true,
+    "side": "Server",
+    "dependsOn": [ { "modId": "ancienttools" } ]
   },
   {
     "file": "expandedfoods:recipes/simmering/ancienttools/stuffedpepper.json",
-    "op": "addmerge", 
-    "path": "/1/enabled", 
-    "value": "false",
-    "side": "server",
-    "dependsOn": [{ "modid": "ancienttools", "invert": true }]
+    "op": "replace",
+    "path": "/1/enabled",
+    "value": true,
+    "side": "Server",
+    "dependsOn": [ { "modId": "ancienttools" } ]
   }
 ]
